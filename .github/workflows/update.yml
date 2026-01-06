@@ -1,0 +1,35 @@
+name: Daily Movie Update
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Run every 5 minutes
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Fetch Movies
+      run: npm run fetch
+
+    - name: Build Site
+      run: npm run build
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Cannot auto-commit: Movie database updated [skip ci]"
+        branch: main
+        file_pattern: 'data/movies.json index.html movies/*.html'

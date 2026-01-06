@@ -1,0 +1,188 @@
+[
+    {
+        "id": "new-6",
+        "title": "Predat",
+        "slug": "predat",
+        "year": 2025,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rating": 8.5,
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "language": "English",
+        "quality": "HD"
+    },
+    {
+        "id": "new-5",
+        "title": "Predato",
+        "slug": "predato",
+        "year": 2025,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rating": 8.5,
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "language": "English",
+        "quality": "HD"
+    },
+    {
+        "id": "new-4",
+        "title": "Predator",
+        "slug": "predator",
+        "year": 2025,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rating": 8.5,
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "language": "English",
+        "quality": "HD"
+    },
+    {
+        "id": "new-3",
+        "title": "Predator: Badlands",
+        "slug": "predator-badlands",
+        "year": 2025,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rating": 8.5,
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "language": "English",
+        "quality": "HD"
+    },
+    {
+        "id": "new-1",
+        "title": "Dune: Part Two",
+        "slug": "dune-part-two",
+        "year": 2024,
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "rating": 8.9,
+        "description": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+        "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "language": "English",
+        "quality": "4K"
+    },
+    {
+        "id": "new-2",
+        "title": "Oppenheimer",
+        "slug": "oppenheimer",
+        "year": 2023,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "rating": 8.5,
+        "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+        "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaB0V.jpg",
+        "language": "English",
+        "quality": "HD"
+    },
+    {
+        "id": "1",
+        "title": "Inception",
+        "slug": "inception",
+        "year": 2010,
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Thriller"
+        ],
+        "rating": 8.8,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "poster": "https://image.tmdb.org/t/p/w500/9gk7admal4zl241ldb72d5l5634.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+        "language": "English",
+        "quality": "4K"
+    },
+    {
+        "id": "2",
+        "title": "Interstellar",
+        "slug": "interstellar",
+        "year": 2014,
+        "genre": [
+            "Sci-Fi",
+            "Drama",
+            "Adventure"
+        ],
+        "rating": 8.6,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "poster": "https://image.tmdb.org/t/p/w500/gEU2QniL6C8z1dY4rer3vi87nGx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+        "language": "English",
+        "quality": "HD"
+    },
+    {
+        "id": "3",
+        "title": "The Dark Knight",
+        "slug": "the-dark-knight",
+        "year": 2008,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9,
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+        "language": "English",
+        "quality": "4K"
+    },
+    {
+        "id": "4",
+        "title": "Parasite",
+        "slug": "parasite",
+        "year": 2019,
+        "genre": [
+            "Comedy",
+            "Thriller",
+            "Drama"
+        ],
+        "rating": 8.5,
+        "description": "All-unemployed Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+        "language": "Korean",
+        "quality": "HD"
+    },
+    {
+        "id": "5",
+        "title": "Kantara",
+        "slug": "kantara",
+        "year": 2022,
+        "genre": [
+            "Action",
+            "Thriller",
+            "Drama"
+        ],
+        "rating": 8.3,
+        "description": "A human vs. nature conflict where a Shiva believer fights against the greed of the landlord and the forest officer.",
+        "poster": "https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+        "language": "Kannada",
+        "quality": "4K"
+    }
+]

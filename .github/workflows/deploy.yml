@@ -1,0 +1,50 @@
+name: Deploy to Vultr
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            APP_DIR="/var/www/imoves"
+            
+            echo "--- Starting Deployment ---"
+            
+            # 1. Navigate to project directory
+            if [ ! -d "$APP_DIR" ]; then
+              echo "Directory does not exist. Please run vultr_setup.sh on the server first."
+              exit 1
+            fi
+            cd $APP_DIR
+
+            # 2. Pull latest changes
+            echo "Pulling latest code..."
+            git fetch origin main
+            git reset --hard origin/main
+
+            # 3. Install dependencies
+            echo "Installing dependencies..."
+            npm install
+
+            # 4. Build application
+            echo "Building site..."
+            npm run build
+
+            # 5. Reload Nginx (Optional, usually not needed for static changes unless config changed)
+            # sudo systemctl reload nginx
+
+            echo "--- Deployment Complete ---"

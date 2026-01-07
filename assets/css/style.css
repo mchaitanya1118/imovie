@@ -648,6 +648,6 @@ footer {
     align-items: center;
     max-width: 1400px;
     margin: 0 auto;
-    color: var(--text-white);
+    color: var(--text-gray);
     width: 100%;
 }

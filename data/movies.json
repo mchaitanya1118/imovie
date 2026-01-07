@@ -1,5 +1,23 @@
 [
     {
+        "id": "new-3",
+        "title": "The Matrix",
+        "slug": "the-matrix",
+        "year": 2023,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "rating": 8.5,
+        "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+        "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaB0V.jpg",
+        "language": "English",
+        "quality": "HD",
+        "trailer": "https://www.youtube.com/embed/uYPbbksJxIg"
+    },
+    {
         "id": "new-1",
         "title": "Dune: Part Two",
         "slug": "dune-part-two",

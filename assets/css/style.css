@@ -91,9 +91,9 @@ nav {
 
 .search-bar svg {
     position: absolute;
-    left: 10px;
+    right: 10px;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateX(-50%);
     width: 20px;
     color: var(--text-gray);
 }
@@ -102,7 +102,7 @@ nav {
     width: 100%;
     padding: 0.75rem 1rem 0.75rem 2.5rem;
     background: rgba(255, 255, 255, 0.05);
-    border: 1px solid var(--glass-border);
+    border: 1px solid var(--bright-fern);
     border-radius: 99px;
     color: var(--text-white);
     outline: none;

@@ -84,6 +84,20 @@ nav {
     color: var(--bright-fern);
 }
 
+/* Back Link */
+.back-link {
+    color: var(--bright-fern);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.back-link:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
 /* Search Bar */
 .search-bar {
     position: relative;

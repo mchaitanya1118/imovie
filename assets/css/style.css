@@ -622,8 +622,8 @@ button {
 .large-search button {
     position: absolute;
     right: 0;
-    top: 6px;
-    bottom: 6px;
+    top: 0;
+    bottom: 0;
     background: var(--bright-fern);
     /* Yellow button as per image */
     border: none;

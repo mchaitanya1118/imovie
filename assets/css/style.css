@@ -91,11 +91,12 @@ nav {
 
 .search-bar svg {
     position: absolute;
-    right: 10px;
+    left: 10px;
     top: 50%;
-    transform: translateX(50%);
+    transform: translateY(-50%);
     width: 20px;
     color: var(--text-white);
+    background-color: var(--bright-fern);
 }
 
 .search-bar input {

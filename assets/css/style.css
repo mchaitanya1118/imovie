@@ -627,7 +627,7 @@ button {
     background: var(--bright-fern);
     /* Yellow button as per image */
     border: none;
-    padding: 0;
+    padding: 0 2rem;
     border-radius: 99px;
     cursor: pointer;
     display: flex;

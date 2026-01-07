@@ -34,37 +34,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-    // --- Video Player & Ad Logic ---
-    const watchBtn = document.getElementById('watchBtn');
-    const videoModal = document.getElementById('videoModal');
-    const closeModal = document.getElementById('closeModal');
+    // --- Video Player & Ad Logic (On-Page) ---
+    const playerSection = document.getElementById('playerSection');
     const adContainer = document.getElementById('adContainer');
     const moviePlayer = document.getElementById('moviePlayer');
     const skipTimer = document.getElementById('skipTimer');
     const skipAdBtn = document.getElementById('skipAdBtn');
     const videoFrame = document.getElementById('videoFrame');
 
-    // Dynamic Video URL
-    let VIDEO_URL = videoModal ? videoModal.getAttribute('data-trailer') : "";
-    if (!VIDEO_URL) {
-        VIDEO_URL = "https://www.youtube.com/embed/Way9Dexny3w?autoplay=1&mute=1"; // Fallback
-    } else {
-        // Ensure autoplay parameters
-        if (!VIDEO_URL.includes('autoplay=1')) {
-            VIDEO_URL += (VIDEO_URL.includes('?') ? '&' : '?') + "autoplay=1&mute=1";
+    let VIDEO_URL = "";
+    if (playerSection) {
+        VIDEO_URL = playerSection.getAttribute('data-trailer') || "";
+
+        // Ensure autoplay parameters for seamless transition
+        if (VIDEO_URL && !VIDEO_URL.includes('autoplay=1')) {
+            VIDEO_URL += (VIDEO_URL.includes('?') ? '&' : '?') + "autoplay=1&mute=0";
         }
-    }
 
-    if (watchBtn) {
-        watchBtn.addEventListener('click', () => {
-            openModal();
-        });
-    }
-
-    if (closeModal) {
-        closeModal.addEventListener('click', () => {
-            closeVideoModal();
-        });
+        // Initialize Ad Flow
+        startAdFlow();
     }
 
     if (skipAdBtn) {
@@ -73,32 +61,10 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Close modal on outside click
-    window.addEventListener('click', (e) => {
-        if (e.target === videoModal) {
-            closeVideoModal();
-        }
-    });
-
     let countdownInterval;
 
-    function openModal() {
-        if (!videoModal) return;
-        console.log('Opening Video Modal');
-        videoModal.style.display = 'flex';
-        resetPlayerParams();
-        startAdFlow();
-    }
-
-    function closeVideoModal() {
-        if (!videoModal) return;
-        videoModal.style.display = 'none';
-        if (videoFrame) videoFrame.src = ""; // Stop video
-        clearInterval(countdownInterval);
-    }
-
     function startAdFlow() {
-        if (!adContainer) return;
+        if (!adContainer || !playerSection) return;
 
         // Show Ad, Hide Player
         adContainer.style.display = 'flex';
@@ -124,13 +90,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function skipAd() {
+        if (!adContainer || !moviePlayer) return;
+
         adContainer.style.display = 'none';
         moviePlayer.style.display = 'block';
-        if (videoFrame) videoFrame.src = VIDEO_URL; // Start Video
-    }
-
-    function resetPlayerParams() {
-        if (videoFrame) videoFrame.src = "";
+        if (videoFrame && VIDEO_URL) {
+            videoFrame.src = VIDEO_URL; // Start Video
+        }
     }
 
 });

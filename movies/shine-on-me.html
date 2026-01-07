@@ -53,18 +53,8 @@
             </div>
         </div>
 
-        <section class="player-section" style="margin-top: 5rem;">
-            <iframe src="https://www.youtube.com/embed/hEQDws2xQHk" title="Movie Player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-        </section>
-    </main>
-
-    <!-- Video Modal -->
-    <div id="videoModal" class="video-modal" data-trailer="https://www.youtube.com/embed/hEQDws2xQHk">
-        <div class="modal-content">
-            <button id="closeModal" class="close-modal">&times;</button>
-
+        <section id="playerSection" class="player-section" style="margin-top: 5rem; position: relative;"
+            data-trailer="https://www.youtube.com/embed/hEQDws2xQHk">
             <div id="adContainer" class="ad-container">
                 <div class="ad-content">
                     <h2>StreamVault Originals</h2>
@@ -76,13 +66,13 @@
                 </div>
             </div>
 
-            <div id="moviePlayer" class="movie-player">
-                <iframe id="videoFrame" src="" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            <div id="moviePlayer" class="movie-player" style="display: none; width: 100%; height: 100%;">
+                <iframe id="videoFrame" src="" title="Movie Player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
             </div>
-        </div>
-    </div>
+        </section>
+    </main>
 
     <script src="../assets/js/main.js"></script>
 </body>

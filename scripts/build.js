@@ -6,7 +6,7 @@ const DIST_DIR = path.join(__dirname, '../');
 const TEMPLATE_INDEX = path.join(__dirname, '../index_template.html');
 const TEMPLATE_MOVIE = path.join(__dirname, '../movie_template.html');
 
-const MOVIES_PER_PAGE = 4; // Adjust as needed
+const MOVIES_PER_PAGE = 12; // 2 rows of 6
 
 async function build() {
     console.log('Starting build...');

@@ -149,9 +149,24 @@ main {
 /* Movie Grid */
 .movies-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(2, 1fr);
+    /* Mobile default */
+    gap: 1.5rem;
     padding: 2rem 0;
+}
+
+@media (min-width: 768px) {
+    .movies-grid {
+        grid-template-columns: repeat(4, 1fr);
+        /* Tablet */
+    }
+}
+
+@media (min-width: 1200px) {
+    .movies-grid {
+        grid-template-columns: repeat(6, 1fr);
+        /* Desktop */
+    }
 }
 
 .movie-card {

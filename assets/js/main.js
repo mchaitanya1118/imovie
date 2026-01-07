@@ -46,13 +46,14 @@ document.addEventListener('DOMContentLoaded', () => {
     if (playerSection) {
         VIDEO_URL = playerSection.getAttribute('data-trailer') || "";
 
-        // Ensure autoplay parameters for seamless transition
+        // Ensure autoplay parameters
         if (VIDEO_URL && !VIDEO_URL.includes('autoplay=1')) {
             VIDEO_URL += (VIDEO_URL.includes('?') ? '&' : '?') + "autoplay=1&mute=0";
         }
 
         // Initialize Ad Flow
-        startAdFlow();
+        // Use setTimeout to ensure DOM is fully ready/painted
+        setTimeout(startAdFlow, 100);
     }
 
     if (skipAdBtn) {
@@ -64,24 +65,27 @@ document.addEventListener('DOMContentLoaded', () => {
     let countdownInterval;
 
     function startAdFlow() {
-        if (!adContainer || !playerSection) return;
+        if (!adContainer || !playerSection || !skipTimer) return;
 
-        // Show Ad, Hide Player
+        // Reset State
         adContainer.style.display = 'flex';
         moviePlayer.style.display = 'none';
         skipAdBtn.style.display = 'none';
         skipTimer.style.display = 'block';
 
         // Start Timer
-        let coldown = 5;
-        skipTimer.innerText = `Skip in ${coldown}`;
+        let cooldown = 5;
+        skipTimer.textContent = `Skip in ${cooldown}`;
+
+        // Clear any existing interval to prevent duplicates
+        if (countdownInterval) clearInterval(countdownInterval);
 
         countdownInterval = setInterval(() => {
-            coldown--;
-            if (coldown > 0) {
-                skipTimer.innerText = `Skip in ${coldown}`;
+            cooldown--;
+            if (cooldown > 0) {
+                skipTimer.textContent = `Skip in ${cooldown}`;
             } else {
-                // Time's up, show skip button
+                // Time's up
                 clearInterval(countdownInterval);
                 skipTimer.style.display = 'none';
                 skipAdBtn.style.display = 'block';
@@ -95,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
         adContainer.style.display = 'none';
         moviePlayer.style.display = 'block';
         if (videoFrame && VIDEO_URL) {
-            videoFrame.src = VIDEO_URL; // Start Video
+            videoFrame.src = VIDEO_URL;
         }
     }
 

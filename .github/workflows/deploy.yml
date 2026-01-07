@@ -13,6 +13,24 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch Latest Movies
+        run: npm run fetch
+
+      - name: Commit and Push Data Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-commit: Movie database updated before deploy"
+          branch: master
+          file_pattern: 'data/movies.json index.html movies/*.html'
+
       - name: Deploy via SSH
         uses: appleboy/ssh-action@master
         with:

@@ -67,21 +67,23 @@ async function fetchMovies() {
         currentMovies = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
     }
 
-    // Simulate adding a random new movie if it doesn't await exist
-    const randomNewMovie = MOCK_NEW_MOVIES[Math.floor(Math.random() * MOCK_NEW_MOVIES.length)];
+    // Check all new movies
+    let addedCount = 0;
+    MOCK_NEW_MOVIES.forEach(movie => {
+        const exists = currentMovies.find(m => m.slug === movie.slug);
+        if (!exists) {
+            console.log(`Adding new movie: ${movie.title}`);
+            currentMovies.unshift(movie);
+            addedCount++;
+        }
+    });
 
-    // Check if already exists
-    const exists = currentMovies.find(m => m.slug === randomNewMovie.slug);
-
-    if (!exists) {
-        console.log(`Adding new movie: ${randomNewMovie.title}`);
-        currentMovies.unshift(randomNewMovie); // Add to top
-
+    if (addedCount > 0) {
         // Save back to file
         fs.writeFileSync(DATA_FILE, JSON.stringify(currentMovies, null, 4));
-        console.log('Database updated.');
+        console.log(`Database updated. Added ${addedCount} new movies.`);
     } else {
-        console.log('No new movies found (mock simulation).');
+        console.log('No new movies found.');
     }
 }
 

@@ -6,6 +6,7 @@
     --text-white: #f8fafc;
     --text-gray: #94a3b8;
     --glass-border: rgba(255, 255, 255, 0.1);
+    --green: #008000;
     --bright-fern: #38b000;
     --font-main: 'Outfit', sans-serif;
 }
@@ -135,7 +136,7 @@ main {
 }
 
 .gradient-text {
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    background: linear-gradient(135deg, var(--bright-fern), var(--green));
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;

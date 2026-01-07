@@ -4,75 +4,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parasite - StreamVault</title>
+    <title>Parasite - iBOMMA one</title>
     <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <meta name="description" content="All-unemployed Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.">
-    <style>
-        .hero-backdrop {
-            background-image: linear-gradient(to top, #0f172a 10%, transparent 90%),
-            url('https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg');
-        }
-    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
-    <div class="background-glow"></div>
-
-    <header class="glass-header">
+    <header>
         <nav>
-            <a href="../index.html" class="logo">Stream<span>Vault</span></a>
-            <a href="../index.html" class="back-link">← Back to Home</a>
+            <a href="../index.html" class="logo">
+                <span class="logo-main">iBOMMA</span>
+                <span class="logo-sub">one</span>
+            </a>
+            <div class="nav-links">
+                <a href="../index.html" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z" />
+                    </svg>
+                    Home
+                </a>
+            </div>
+            <div class="search-box">
+                <input type="text" placeholder="Search..">
+                <button><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0Z" />
+                    </svg></button>
+            </div>
         </nav>
     </header>
 
-    <main class="movie-detail">
-        <div class="hero-backdrop"></div>
-
-        <div class="content-wrapper">
-            <div class="poster-large">
+    <main>
+        <div class="movie-detail-container">
+            <div class="detail-poster">
                 <img src="https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" alt="Parasite">
             </div>
-            <div class="info-panel">
-                <div class="tags">
-                    <span class="quality-badge">HD</span>
-                    <span class="rating-badge">★ 8.5</span>
-                    <span class="lang-badge">Korean</span>
-                </div>
-                <h1>Parasite <span class="year">(2019)</span></h1>
-                <p class="genres">Comedy, Thriller, Drama</p>
-                <p class="description">All-unemployed Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.</p>
+            <div class="detail-info">
+                <h1>Parasite</h1>
+                <p><strong>Year:</strong> 2019</p>
+                <p><strong>Genre:</strong> Comedy, Thriller, Drama</p>
+                <p><strong>Rating:</strong> 8.5</p>
+                <p><strong>Language:</strong> Korean</p>
+                <p><strong>Quality:</strong> HD</p>
+                <br>
+                <p>All-unemployed Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.</p>
 
-                <div class="actions">
-                    <button class="btn-primary" id="watchBtn">▶ Watch Now</button>
-                    <button class="btn-secondary">⬇ Download</button>
+                <div class="actions" style="margin-top: 2rem;">
+                    <button id="watchBtn"
+                        style="background: var(--primary-yellow); border: none; padding: 10px 30px; border-radius: 4px; font-weight: 700; cursor: pointer;">Watch
+                        Movie</button>
                 </div>
             </div>
         </div>
     </main>
 
-    <!-- Video Modal -->
+    <!-- Video Modal (Preserved Logic) -->
     <div id="videoModal" class="video-modal" data-trailer="https://www.youtube.com/embed/Way9Dexny3w">
         <div class="modal-content">
             <button id="closeModal" class="close-modal">&times;</button>
-
             <div id="adContainer" class="ad-container">
                 <div class="ad-content">
-                    <h2>StreamVault Originals</h2>
-                    <p>Experience the magic of cinema. Subscribe now for ad-free details.</p>
+                    <h2>iBOMMA Originals</h2>
+                    <p>Experience the magic of cinema.</p>
                 </div>
                 <div class="ad-timer-wrapper">
                     <span id="skipTimer">Skip in 5</span>
                     <button id="skipAdBtn" class="skip-btn">Skip Ad ⏭</button>
                 </div>
             </div>
-
             <div id="moviePlayer" class="movie-player">
-                <iframe id="videoFrame" src="" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen></iframe>
+                <iframe id="videoFrame" src="" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>

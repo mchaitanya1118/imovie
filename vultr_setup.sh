@@ -6,7 +6,7 @@
 # 2. Paste this entire script into the "Startup Script" (User Data) section optional
 #    OR run it efficiently as root after logging in.
 
-LOG_FILE="/var/log/imoves_setup.log"
+LOG_FILE="/var/log/imovie_setup.log"
 exec > >(tee -a $LOG_FILE) 2>&1
 
 echo "--- Starting Setup $(date) ---"
@@ -25,8 +25,8 @@ curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
 apt-get install -y nodejs
 
 # 4. Clone Repository
-REPO_URL="https://github.com/mchaitanya1118/imoves.git"
-APP_DIR="/var/www/imoves"
+REPO_URL="https://github.com/mchaitanya1118/imovie.git"
+APP_DIR="/var/www/imovie"
 
 if [ -d "$APP_DIR" ]; then
     echo "Directory exists, pulling changes..."
@@ -45,7 +45,7 @@ npm run build
 
 # 6. Configure Nginx
 echo "--- Configuring Nginx ---"
-cat > /etc/nginx/sites-available/imoves <<EOF
+cat > /etc/nginx/sites-available/imovie <<EOF
 server {
     listen 80;
     server_name _;  # Accepts any IP/Domain until configured
@@ -67,7 +67,7 @@ EOF
 
 # Enable Site
 rm -f /etc/nginx/sites-enabled/default
-ln -sf /etc/nginx/sites-available/imoves /etc/nginx/sites-enabled/
+ln -sf /etc/nginx/sites-available/imovie /etc/nginx/sites-enabled/
 
 # 7. Restart Nginx
 systemctl restart nginx

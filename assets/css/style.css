@@ -556,15 +556,15 @@ button {
 
 .page-link:hover {
     background: rgba(255, 255, 255, 0.1);
-    border-color: var(--primary);
-    color: var(--primary);
+    border-color: var(--bright-fern);
+    color: var(--bright-fern);
     transform: translateY(-2px);
 }
 
 .page-link.active {
-    background: var(--primary);
-    color: #000;
-    border-color: var(--primary);
+    background: var(--bright-fern);
+    color: #fff;
+    border-color: var(--bright-fern);
 }
 
 .page-link.disabled {

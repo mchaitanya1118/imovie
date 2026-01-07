@@ -147,50 +147,51 @@ main {
 }
 
 /* Movie Grid */
+/* Movie Grid */
 .movies-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    /* Mobile default */
-    gap: 1rem;
+    /* Force 6 columns of 400px each */
+    grid-template-columns: repeat(6, 400px);
+    gap: 1.5rem;
     padding: 2rem 0;
+    overflow-x: auto;
+    /* Allow horizontal scroll */
+    padding-bottom: 2rem;
+    /* Space for scrollbar */
 }
 
-@media (min-width: 768px) {
+/* Mobile/Tablet adjustment - keep 6 columns but scrollable */
+@media (max-width: 1200px) {
     .movies-grid {
-        grid-template-columns: repeat(4, 1fr);
-        /* Tablet */
-    }
-}
-
-@media (min-width: 1200px) {
-    .movies-grid {
-        grid-template-columns: repeat(6, 1fr);
-        /* Desktop */
+        grid-template-columns: repeat(6, 400px);
     }
 }
 
 .movie-card {
     background: var(--bg-card);
     border-radius: 12px;
-    /* Reduced radius */
     overflow: hidden;
     text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: 1px solid var(--glass-border);
     position: relative;
     display: block;
+    /* Explicit Dimensions */
+    width: 400px;
+    height: 715px;
 }
 
 .movie-card:hover {
     transform: translateY(-5px);
-    /* Reduced hover movement */
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
     border-color: rgba(255, 255, 255, 0.2);
 }
 
 .poster-wrapper {
     position: relative;
-    aspect-ratio: 2/3;
+    /* Adjust height to fit within 715px card (leaving space for info) */
+    height: 600px;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -207,30 +208,31 @@ main {
 
 .quality-tag {
     position: absolute;
-    top: 8px;
-    right: 8px;
+    top: 10px;
+    right: 10px;
     background: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(4px);
     color: var(--primary);
-    font-size: 0.65rem;
-    /* Smaller font */
+    font-size: 0.8rem;
     font-weight: 700;
-    padding: 2px 6px;
-    /* Smaller padding */
+    padding: 4px 8px;
     border-radius: 4px;
     border: 1px solid rgba(56, 189, 248, 0.3);
 }
 
 .movie-info {
-    padding: 0.75rem;
-    /* Reduced padding */
+    padding: 1.5rem;
+    height: 115px;
+    /* Remaining height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .movie-info h3 {
     color: var(--text-white);
-    font-size: 0.9rem;
-    /* Smaller font */
-    margin-bottom: 0.25rem;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -239,8 +241,7 @@ main {
 .meta {
     display: flex;
     justify-content: space-between;
-    font-size: 0.75rem;
-    /* Smaller font */
+    font-size: 1rem;
     color: var(--text-gray);
 }
 

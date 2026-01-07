@@ -375,9 +375,8 @@ button {
 }
 
 .btn-secondary {
-    background: rgba(255, 255, 255, 0.1);
+    background: var(--bright-fern);
     color: var(--text-white);
-    border: 1px solid var(--glass-border);
 }
 
 .btn-secondary:hover {

@@ -572,9 +572,11 @@ button {
     pointer-events: none;
     cursor: default;
 }
+
 /* Footer Search Section */
 .footer-search {
-    background: #0f172a; /* Dark background matching container */
+    background: #0f172a;
+    /* Dark background matching container */
     padding: 4rem 2rem;
     text-align: center;
     margin-top: 4rem;
@@ -605,7 +607,7 @@ button {
 .large-search input {
     width: 100%;
     background: #1e293b;
-    border: 1px solid #334155;
+    border: 1px solid var(--bright-fern);
     padding: 1rem 1.5rem;
     color: white;
     border-radius: 99px;
@@ -622,7 +624,8 @@ button {
     right: 6px;
     top: 6px;
     bottom: 6px;
-    background: #ffff00; /* Yellow button as per image */
+    background: var(--bright-fern);
+    /* Yellow button as per image */
     border: none;
     padding: 0 1.5rem;
     border-radius: 99px;
@@ -630,7 +633,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: black;
+    color: var(--text-white);
     transition: transform 0.2s;
 }
 

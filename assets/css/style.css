@@ -627,8 +627,6 @@ button {
     background: var(--bright-fern);
     border: none;
     padding: 0 2rem;
-    border-top-right-radius: 99px;
-    border-bottom-right-radius: 99px;
     cursor: pointer;
     display: flex;
     align-items: center;

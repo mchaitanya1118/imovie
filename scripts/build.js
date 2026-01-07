@@ -56,16 +56,19 @@ async function build() {
         // If Pages: ../movies/slug.html, ../assets/...
         const linkPrefix = isHome ? '' : '../';
 
-        // Generate Movie Cards (iBOMMA Clone)
+        // Generate Movie Cards
         const movieCardsHtml = pageMovies.map(movie => `
             <a href="${linkPrefix}movies/${movie.slug}.html" class="movie-card" data-title="${movie.title.toLowerCase()}">
-                <div class="card-top">bappam.tv</div>
                 <div class="poster-wrapper">
                     <img src="${movie.poster}" alt="${movie.title}" loading="lazy">
+                    <div class="quality-tag">${movie.quality}</div>
                 </div>
-                <div class="card-info">
-                    <div class="movie-title">${movie.title}</div>
-                    <div class="year-tag">${movie.year}</div>
+                <div class="movie-info">
+                    <h3>${movie.title}</h3>
+                    <div class="meta">
+                        <span>${movie.year}</span>
+                        <span class="rating">★ ${movie.rating}</span>
+                    </div>
                 </div>
             </a>
         `).join('');

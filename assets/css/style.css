@@ -126,7 +126,7 @@ nav {
 
 .search-bar input:focus {
     background: rgba(255, 255, 255, 0.1);
-    border-color: var(--primary);
+    border-color: #fff;
     box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);
 }
 

@@ -93,9 +93,9 @@ nav {
     position: absolute;
     right: 10px;
     top: 50%;
-    transform: translateX(-50%);
+    transform: translateX(50%);
     width: 20px;
-    color: var(--text-gray);
+    color: var(--text-white);
 }
 
 .search-bar input {

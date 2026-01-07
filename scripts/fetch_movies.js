@@ -55,7 +55,7 @@ const MOCK_NEW_MOVIES = [
         "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "language": "English",
-        "quality": "HD"
+        "quality": "HD",
     }
 
 ];

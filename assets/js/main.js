@@ -44,8 +44,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const skipAdBtn = document.getElementById('skipAdBtn');
     const videoFrame = document.getElementById('videoFrame');
 
-    // Placeholder Video (Rick Roll - ensuring autoplay works with mute)
-    const VIDEO_URL = "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1";
+    // Dynamic Video URL
+    let VIDEO_URL = videoModal ? videoModal.getAttribute('data-trailer') : "";
+    if (!VIDEO_URL) {
+        VIDEO_URL = "https://www.youtube.com/embed/Way9Dexny3w?autoplay=1&mute=1"; // Fallback
+    } else {
+        // Ensure autoplay parameters
+        if (!VIDEO_URL.includes('autoplay=1')) {
+            VIDEO_URL += (VIDEO_URL.includes('?') ? '&' : '?') + "autoplay=1&mute=1";
+        }
+    }
 
     if (watchBtn) {
         watchBtn.addEventListener('click', () => {

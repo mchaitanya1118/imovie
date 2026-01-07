@@ -141,6 +141,9 @@ async function build() {
     if (removedFiles > 0) console.log(`Cleaned up ${removedFiles} stale movie pages.`);
 
     movies.forEach(movie => {
+        // Default trailer if missing (Dune Part Two trailer as safe fallback)
+        const trailerUrl = movie.trailer || "https://www.youtube.com/embed/Way9Dexny3w";
+
         let pageHtml = movieTemplate
             .replace(/{{title}}/g, movie.title)
             .replace(/{{year}}/g, movie.year)
@@ -150,6 +153,7 @@ async function build() {
             .replace(/{{backdrop}}/g, movie.backdrop)
             .replace(/{{quality}}/g, movie.quality)
             .replace(/{{language}}/g, movie.language)
+            .replace(/{{trailer}}/g, trailerUrl)
             .replace(/{{genre}}/g, movie.genre.join(', '));
 
         fs.writeFileSync(path.join(movieDir, `${movie.slug}.html`), pageHtml);

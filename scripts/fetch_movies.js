@@ -47,7 +47,7 @@ const MOCK_NEW_MOVIES = [
     {
         "id": "new-4",
         "title": "The Housemaid",
-        "slug": "The Housemaid",
+        "slug": "The-Housemaid",
         "year": 2025,
         "genre": ["Mystery", "Thriller"],
         "rating": 8.5,

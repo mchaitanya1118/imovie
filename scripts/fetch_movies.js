@@ -56,6 +56,19 @@ const MOCK_NEW_MOVIES = [
         "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "language": "English",
         "quality": "HD"
+    },
+    {
+        "id": "new-5",
+        "title": "The House",
+        "slug": "The-House",
+        "year": 2025,
+        "genre": ["Mystery", "Thriller"],
+        "rating": 8.5,
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+        "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_multi_faces_filter(blur)/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "language": "English",
+        "quality": "HD"
     }
 ];
 

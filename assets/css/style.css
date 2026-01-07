@@ -59,7 +59,6 @@ body {
     border-top: 2px solid var(--bright-fern);
     border-bottom: 1px solid var(--glass-border);
     position: sticky;
-    top: 0;
     z-index: 100;
     padding: 1rem 2rem;
 }

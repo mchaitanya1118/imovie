@@ -219,7 +219,7 @@ main {
     right: 8px;
     background: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(4px);
-    color: var(--primary);
+    color: var(--bright-fern);
     font-size: 0.7rem;
     font-weight: 700;
     padding: 2px 6px;
@@ -250,7 +250,7 @@ main {
 }
 
 .rating {
-    color: #fbbf24;
+    color: var(--bright-fern);
 }
 
 /* Movie Detail Page */

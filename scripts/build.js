@@ -142,7 +142,14 @@ async function build() {
 
     movies.forEach(movie => {
         // Default trailer if missing (Dune Part Two trailer as safe fallback)
-        const trailerUrl = movie.trailer || "https://www.youtube.com/embed/Way9Dexny3w";
+        let trailerUrl = movie.trailer || "https://www.youtube.com/embed/Way9Dexny3w";
+
+        // Convert YouTube Watch URL to Embed URL if needed
+        if (trailerUrl.includes('youtube.com/watch?v=')) {
+            trailerUrl = trailerUrl.replace('youtube.com/watch?v=', 'youtube.com/embed/');
+        } else if (trailerUrl.includes('youtu.be/')) {
+            trailerUrl = trailerUrl.replace('youtu.be/', 'youtube.com/embed/');
+        }
 
         let pageHtml = movieTemplate
             .replace(/{{title}}/g, movie.title)

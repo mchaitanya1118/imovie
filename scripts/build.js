@@ -18,8 +18,9 @@ async function build() {
 
     const movies = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
 
-    // Create 'pages' directory
-    fs.ensureDirSync(path.join(DIST_DIR, 'pages'));
+    // Create 'pages' directory (Clean it first to remove stale pages)
+    const pagesDir = path.join(DIST_DIR, 'pages');
+    fs.emptyDirSync(pagesDir);
 
     let indexTemplate = '';
     let movieTemplate = '';
@@ -36,6 +37,7 @@ async function build() {
 
     // --- 1. Generate Movie Listing Pages (Pagination) ---
     for (let i = 1; i <= totalPages; i++) {
+        // ... (generation logic remains same, but directory is already clean)
         const pageNum = i;
         const isHome = (pageNum === 1);
 
@@ -120,6 +122,23 @@ async function build() {
     // --- 2. Generate Individual Movie Pages ---
     const movieDir = path.join(DIST_DIR, 'movies');
     fs.ensureDirSync(movieDir);
+
+    // CLEANUP: Remove stale movie files
+    const validSlugs = new Set(movies.map(m => m.slug));
+    const existingFiles = fs.readdirSync(movieDir);
+    let removedFiles = 0;
+
+    existingFiles.forEach(file => {
+        if (file.endsWith('.html')) {
+            const slug = file.replace('.html', '');
+            if (!validSlugs.has(slug)) {
+                fs.unlinkSync(path.join(movieDir, file));
+                console.log(`Removed stale file: movies/${file}`);
+                removedFiles++;
+            }
+        }
+    });
+    if (removedFiles > 0) console.log(`Cleaned up ${removedFiles} stale movie pages.`);
 
     movies.forEach(movie => {
         let pageHtml = movieTemplate

@@ -41,7 +41,7 @@ async function fetchMovies() {
         currentMovies = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
     }
 
-    // Check all new movies
+    // 1. Add new movies
     let addedCount = 0;
     MOCK_NEW_MOVIES.forEach(movie => {
         const exists = currentMovies.find(m => m.slug === movie.slug);
@@ -52,12 +52,29 @@ async function fetchMovies() {
         }
     });
 
-    if (addedCount > 0) {
+    // 2. Remove movies that are no longer in the source (only for "new-*" IDs)
+    // We assume IDs starting with "new-" are managed by this script.
+    const mockIds = new Set(MOCK_NEW_MOVIES.map(m => m.id));
+    const initialLength = currentMovies.length;
+
+    currentMovies = currentMovies.filter(movie => {
+        if (movie.id && movie.id.toString().startsWith('new-')) {
+            if (!mockIds.has(movie.id)) {
+                console.log(`Removing movie: ${movie.title} (ID: ${movie.id})`);
+                return false;
+            }
+        }
+        return true;
+    });
+
+    const removedCount = initialLength - currentMovies.length;
+
+    if (addedCount > 0 || removedCount > 0) {
         // Save back to file
         fs.writeFileSync(DATA_FILE, JSON.stringify(currentMovies, null, 4));
-        console.log(`Database updated. Added ${addedCount} new movies.`);
+        console.log(`Database updated. Added ${addedCount}, Removed ${removedCount} movies.`);
     } else {
-        console.log('No new movies found.');
+        console.log('No changes found.');
     }
 }
 

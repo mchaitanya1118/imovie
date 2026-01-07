@@ -46,11 +46,18 @@
                 <p class="description">{{description}}</p>
 
                 <div class="actions">
-                    <button class="btn-primary" id="watchBtn">▶ Watch Now</button>
+                    <a href="{{trailer}}" target="_blank" class="btn-primary"
+                        style="text-decoration: none; display: inline-block;">▶ Watch Trailer</a>
                     <button class="btn-secondary">⬇ Download</button>
                 </div>
             </div>
         </div>
+
+        <section class="player-section" style="margin-top: 5rem;">
+            <iframe src="" title="Movie Player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+        </section>
     </main>
 
     <!-- Video Modal -->

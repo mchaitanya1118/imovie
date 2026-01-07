@@ -31,8 +31,26 @@ jobs:
       run: npm run build
 
     - name: Commit and Push Changes
+      id: auto-commit
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Auto-commit: Movie database updated [skip ci]"
+        commit_message: "Auto-commit: Movie database updated"
         branch: master
         file_pattern: 'data/movies.json index.html movies/*.html'
+
+    - name: Deploy to Production
+      if: steps.auto-commit.outputs.changes_detected == 'true'
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: ${{ secrets.SSH_USERNAME }}
+        key: ${{ secrets.SSH_KEY }}
+        script: |
+          APP_DIR="/var/www/imovie"
+          if [ -d "$APP_DIR" ]; then
+            cd $APP_DIR
+            git fetch origin master
+            git reset --hard origin/master
+            npm install
+            npm run build
+          fi

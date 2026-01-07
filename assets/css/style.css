@@ -641,6 +641,7 @@ button {
 }
 
 footer {
+    background: var(--bg-dark);
     padding: 2rem;
     display: flex;
     justify-content: space-between;

@@ -96,7 +96,6 @@ nav {
     transform: translateY(-50%);
     width: 20px;
     color: var(--text-white);
-    background: var(--bright-fern);
 }
 
 .search-bar input {

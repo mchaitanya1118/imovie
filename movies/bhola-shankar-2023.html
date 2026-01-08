@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhola Shankar - StreamVault</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="description" content="A righteous man fights against injustice in society.">
+    <style>
+        .hero-backdrop {
+            background-image: linear-gradient(to top, #0f172a 10%, transparent 90%),
+            url('https://image.tmdb.org/t/p/original/9A59BholaBackdrop.jpg');
+        }
+    </style>
+</head>
+
+<body>
+    <div class="background-glow"></div>
+
+    <header class="glass-header">
+        <nav>
+            <a href="../index.html" class="logo">Stream<span>Vault</span></a>
+            <a href="../index.html" class="back-link">← Back to Home</a>
+        </nav>
+    </header>
+
+    <main class="movie-detail">
+        <div class="hero-backdrop"></div>
+
+        <div class="content-wrapper">
+            <div class="poster-large">
+                <img src="https://image.tmdb.org/t/p/w500/9A59BholaPoster.jpg" alt="Bhola Shankar">
+            </div>
+            <div class="info-panel">
+                <div class="tags">
+                    <span class="quality-badge">4K</span>
+                    <span class="rating-badge">★ 6.5</span>
+                    <span class="lang-badge">Telugu</span>
+                </div>
+                <h1>Bhola Shankar <span class="year">(2023)</span></h1>
+                <p class="genres">Action, Drama</p>
+                <p class="description">A righteous man fights against injustice in society.</p>
+
+                <div class="actions">
+                    <a href="https://www.youtube.com/embed/BholaShankarTrailer" target="_blank" class="glass-button">▶ Watch Trailer</a>
+                    <button class="btn-secondary">⬇ Download</button>
+                </div>
+            </div>
+        </div>
+
+        <section id="playerSection" class="player-section" style="margin-top: 5rem; position: relative;"
+            data-trailer="https://www.youtube.com/embed/BholaShankarTrailer">
+            <div id="adContainer" class="ad-container">
+                <div class="ad-content">
+                    <h2>StreamVault Originals</h2>
+                    <p>Experience the magic of cinema. Subscribe now for ad-free details.</p>
+                </div>
+                <div class="ad-timer-wrapper">
+                    <span id="skipTimer">Skip in 5</span>
+                    <button id="skipAdBtn" class="skip-btn">Skip Ad ⏭</button>
+                </div>
+            </div>
+
+            <div id="moviePlayer" class="movie-player" style="display: none; width: 100%; height: 100%;">
+                <iframe id="videoFrame" src="" title="Movie Player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+        </section>
+    </main>
+
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

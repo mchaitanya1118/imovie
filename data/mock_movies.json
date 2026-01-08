@@ -1704,5 +1704,22 @@
         "language": "Telugu",
         "quality": "4K",
         "trailer": "https://www.youtube.com/watch?v=Pushpa2Trailer"
+    },
+    {
+        "id": "tl_101",
+        "title": "Pushpa 2: The Rule",
+        "slug": "pushpa-2-the-rule-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 8.5,
+        "description": "The rise of Pushpa continues as he faces greater enemies.",
+        "poster": "https://image.tmdb.org/t/p/w500/0E100Pushpa2Poster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/0E100Pushpa2Backdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Pushpa2Trailer"
     }
 ]

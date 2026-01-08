@@ -44,7 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let VIDEO_URL = "";
     if (playerSection) {
-        VIDEO_URL = playerSection.getAttribute('data-trailer') || "";
+        let rawUrl = playerSection.getAttribute('data-trailer') || "";
+        VIDEO_URL = convertToEmbedUrl(rawUrl);
 
         // Ensure autoplay parameters
         if (VIDEO_URL && !VIDEO_URL.includes('autoplay=1')) {
@@ -54,6 +55,36 @@ document.addEventListener('DOMContentLoaded', () => {
         // Initialize Ad Flow
         // Use setTimeout to ensure DOM is fully ready/painted
         setTimeout(startAdFlow, 100);
+    }
+
+    function convertToEmbedUrl(url) {
+        if (!url) return "";
+        let videoId = "";
+
+        // Handle standard youtube.com/watch?v=ID
+        if (url.includes("youtube.com/watch")) {
+            const urlParams = new URLSearchParams(new URL(url).search);
+            videoId = urlParams.get("v");
+        }
+        // Handle youtu.be/ID
+        else if (url.includes("youtu.be/")) {
+            videoId = url.split("youtu.be/")[1];
+        }
+        // Handle already embed URLs or other cases (pass through if unsure, but strip query params if needed)
+        else if (url.includes("youtube.com/embed/")) {
+            return url;
+        }
+
+        if (videoId) {
+            // Clean videoId in case of extra params
+            const ampersandPosition = videoId.indexOf('&');
+            if (ampersandPosition !== -1) {
+                videoId = videoId.substring(0, ampersandPosition);
+            }
+            return `https://www.youtube.com/embed/${videoId}`;
+        }
+
+        return url; // Return original if no conversion pattern matched (fallback)
     }
 
     if (skipAdBtn) {

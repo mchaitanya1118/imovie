@@ -178,566 +178,6 @@
     },
     {
         "id": "tl_011",
-        "title": "Sye",
-        "slug": "sye-2004",
-        "year": 2004,
-        "genre": [
-            "Sports",
-            "Drama"
-        ],
-        "rating": 7.7,
-        "description": "A college rugby team unites to save their campus.",
-        "poster": "https://image.tmdb.org/t/p/w500/3G4M1N5S8Z9T7K0D2P6B4X1A5E.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/1K7M2X9T3B4N5Z6P8A0D4F5S6E.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=O5m4VJtY8CE"
-    },
-    {
-        "id": "tl_012",
-        "title": "Khaidi No. 150",
-        "slug": "khaidi-no-150-2017",
-        "year": 2017,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 6.9,
-        "description": "A man exposes a corrupt businessman to protect farmers.",
-        "poster": "https://image.tmdb.org/t/p/w500/6P9B3D1N7X4T5Z2K0S8A5F4M3G9.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/2N8M4Z3T5B1D6P0A7S9XK4G5F.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=0k2TgDq4p1Q"
-    },
-    {
-        "id": "tl_013",
-        "title": "Srimanthudu",
-        "slug": "srimanthudu-2015",
-        "year": 2015,
-        "genre": [
-            "Drama",
-            "Action"
-        ],
-        "rating": 7.4,
-        "description": "A wealthy businessman adopts a village to bring development.",
-        "poster": "https://image.tmdb.org/t/p/w500/8w2d8nE4dH7G1YQF6G2w2n1dR2D.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/vf5F3n6xK1rH3s0M1b5Z5E0b5E5.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=2kW2fZQ6Qw0"
-    },
-    {
-        "id": "tl_014",
-        "title": "Pokiri",
-        "slug": "pokiri-2006",
-        "year": 2006,
-        "genre": [
-            "Action",
-            "Crime"
-        ],
-        "rating": 8.0,
-        "description": "An undercover cop infiltrates a dangerous criminal syndicate.",
-        "poster": "https://image.tmdb.org/t/p/w500/2Zyq7zD7m2H1Y9JmG9YpH2GZ3x7.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/1Zk2yY4J3K9N5C4S2F8Q8b5H2V4.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=ZtJ1j3W4m8A"
-    },
-    {
-        "id": "tl_015",
-        "title": "Athadu",
-        "slug": "athadu-2005",
-        "year": 2005,
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "rating": 8.2,
-        "description": "A professional assassin seeks redemption after a wrong turn.",
-        "poster": "https://image.tmdb.org/t/p/w500/q2p3N4Z5K1F7D9H0Y2G1X3E4V8S.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/Z9Q8G7F6E5D4C3B2A1M0N9K8J7H6.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=2t3M4L5N6Q"
-    },
-    {
-        "id": "tl_016",
-        "title": "Gabbar Singh",
-        "slug": "gabbar-singh-2012",
-        "year": 2012,
-        "genre": [
-            "Action",
-            "Comedy"
-        ],
-        "rating": 7.2,
-        "description": "A fearless cop battles a ruthless gangster in rural India.",
-        "poster": "https://image.tmdb.org/t/p/w500/5bGQyP2x9R6Y4Z2n2N1B9E8T7ZP.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8Z9T5P2F4X3N6K1M7G5B9Y0A2D.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=jZr7xG6M9kE"
-    },
-    {
-        "id": "tl_017",
-        "title": "Sankarabharanamlo Sivudu",
-        "slug": "sankarabharanamlo-sivudu-2017",
-        "year": 2017,
-        "genre": [
-            "Drama",
-            "Music"
-        ],
-        "rating": 7.0,
-        "description": "A rural youth struggles to preserve classical art traditions.",
-        "poster": "https://image.tmdb.org/t/p/w500/8K2n0x1JH5R3F6D4Z9M7A6S2T4Y.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3N8D4Y7X6T9QZ5P1FJ0M2S5H8B.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4G9F1S8N5TQ"
-    },
-    {
-        "id": "tl_018",
-        "title": "Manam",
-        "slug": "manam-2014",
-        "year": 2014,
-        "genre": [
-            "Drama",
-            "Fantasy"
-        ],
-        "rating": 7.9,
-        "description": "Three generations relive love across multiple lifetimes.",
-        "poster": "https://image.tmdb.org/t/p/w500/7N5Y9Z8F3X1B2Q0D6K4S5J8G9E.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4D7Y1P0X3F2K5B6Q9Z8S5J6E7G.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=RZ0V4mQ3E9E"
-    },
-    {
-        "id": "tl_019",
-        "title": "Leader",
-        "slug": "leader-2010",
-        "year": 2010,
-        "genre": [
-            "Political",
-            "Drama"
-        ],
-        "rating": 8.0,
-        "description": "A young leader challenges corruption in the political system.",
-        "poster": "https://image.tmdb.org/t/p/w500/Z1S2D3F4G5H6J7K8L9Q0W2E3R4T.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/M9N8B7V6C5X4Z3A2S1D0FQWERTY.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=E2m9X4T5Z7M"
-    },
-    {
-        "id": "tl_020",
-        "title": "Oopiri",
-        "slug": "oopiri-2016",
-        "year": 2016,
-        "genre": [
-            "Comedy",
-            "Drama"
-        ],
-        "rating": 8.0,
-        "description": "A quadriplegic billionaire finds new meaning through friendship.",
-        "poster": "https://image.tmdb.org/t/p/w500/5D2S8K6Y4F3J9G7M1N0X2P8Q4Z.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9Q7K5J3F1X4D8Y2Z6S0P2M4N5G.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=R8F3Y5T4Q1N"
-    },
-    {
-        "id": "tl_021",
-        "title": "Janatha Garage",
-        "slug": "janatha-garage-2016",
-        "year": 2016,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 7.8,
-        "description": "An environmentalist fights powerful criminals with the help of the public.",
-        "poster": "https://image.tmdb.org/t/p/w500/5R8N4ZK3J9S6P2F7X1Y0QG6E8D.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8N4F2D6Y3P9KX7Z5M1S0GJQH.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=5xK2F4S7YJQ"
-    },
-    {
-        "id": "tl_022",
-        "title": "Bharat Ane Nenu",
-        "slug": "bharat-ane-nenu-2018",
-        "year": 2018,
-        "genre": [
-            "Political",
-            "Drama"
-        ],
-        "rating": 7.5,
-        "description": "A young CM reforms governance with integrity.",
-        "poster": "https://image.tmdb.org/t/p/w500/6Z1S8D5N4X9P2M7FJ3Y0KQH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9D8N6K5X7F3P2Y1M4ZQH0S.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=K9X4D2N5S3Y"
-    },
-    {
-        "id": "tl_023",
-        "title": "Happy Days",
-        "slug": "happy-days-2007",
-        "year": 2007,
-        "genre": [
-            "Drama",
-            "Romance"
-        ],
-        "rating": 7.6,
-        "description": "College friends navigate love, career, and life.",
-        "poster": "https://image.tmdb.org/t/p/w500/3S5D7Z9KX1M2F4Y6P8N0JQH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X9D2F4Y7M6N8S3K1P0ZQH.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4Y9F6S1D5KZ"
-    },
-    {
-        "id": "tl_024",
-        "title": "Bommarillu",
-        "slug": "bommarillu-2006",
-        "year": 2006,
-        "genre": [
-            "Family",
-            "Romance"
-        ],
-        "rating": 8.1,
-        "description": "A young man rebels against his controlling father to find love.",
-        "poster": "https://image.tmdb.org/t/p/w500/1Z5S9N7D8M4F2X6P0Y3KQH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8F5S7X4M3N9Z2P6Y0D1KQH.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=F5D4S7X9Y3Q"
-    },
-    {
-        "id": "tl_025",
-        "title": "Tagore",
-        "slug": "tagore-2003",
-        "year": 2003,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 7.4,
-        "description": "A vigilante group takes on corruption in the system.",
-        "poster": "https://image.tmdb.org/t/p/w500/5N8Z6X4Y7P3F2S1D9KQH0M.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4S9N5P3Y1X8Z2KQH7D6F0M.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=3X4D7Y8S1QH"
-    },
-    {
-        "id": "tl_026",
-        "title": "Chatrapathi",
-        "slug": "chatrapathi-2005",
-        "year": 2005,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 7.9,
-        "description": "A refugee rises as a leader to protect his people.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X3N5D6S7F2Z9M1P4YQK0H.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9Z6F4N5X1D8S7M3Y2P0QH.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=Y4X3N2S5QF0"
-    },
-    {
-        "id": "tl_027",
-        "title": "Businessman",
-        "slug": "businessman-2012",
-        "year": 2012,
-        "genre": [
-            "Action",
-            "Crime"
-        ],
-        "rating": 7.1,
-        "description": "A man aims to rule the Mumbai underworld.",
-        "poster": "https://image.tmdb.org/t/p/w500/5D9Z4N8S6X7P3M2F1Y0QH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/7F2N5D4M3Z8P1S9X6Y0QH.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=8Z4N7S3F2QH"
-    },
-    {
-        "id": "tl_028",
-        "title": "Arya",
-        "slug": "arya-2004",
-        "year": 2004,
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "rating": 7.8,
-        "description": "A free-spirited man believes love conquers all.",
-        "poster": "https://image.tmdb.org/t/p/w500/3Z2N4S8D5P9F6Y1M7XQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5S3X4Z6P1D8N9M2YF7QH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z3N2S7QH"
-    },
-    {
-        "id": "tl_029",
-        "title": "Ye Maaya Chesave",
-        "slug": "ye-maaya-chesave-2010",
-        "year": 2010,
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "rating": 7.9,
-        "description": "A filmmaker falls in love with a traditional woman.",
-        "poster": "https://image.tmdb.org/t/p/w500/7S3Z8P2D4X9F5N6M1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4Z6P5X1N8S9M7D3F2YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=8X4N9S2Z7QH"
-    },
-    {
-        "id": "tl_030",
-        "title": "Robo",
-        "slug": "robo-2010",
-        "year": 2010,
-        "genre": [
-            "Sci-Fi",
-            "Action"
-        ],
-        "rating": 7.1,
-        "description": "A scientist creates a humanoid robot with emotions.",
-        "poster": "https://image.tmdb.org/t/p/w500/2Z5N8D6S7X4P9F3M1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5P8Z4N1D7X3F6M2S9YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=Z8X5N4S3QH0"
-    },
-    {
-        "id": "tl_031",
-        "title": "Yuvakulu",
-        "slug": "yuvakulu-2008",
-        "year": 2008,
-        "genre": [
-            "Drama",
-            "Romance"
-        ],
-        "rating": 7.2,
-        "description": "Youth dreams and struggles in modern society.",
-        "poster": "https://image.tmdb.org/t/p/w500/9N5Z2X4S7P3D8M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_032",
-        "title": "Eega 2",
-        "slug": "eega-2-2024",
-        "year": 2024,
-        "genre": [
-            "Fantasy",
-            "Action"
-        ],
-        "rating": 7.9,
-        "description": "The legendary fly returns with a new mission.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3F6M1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_033",
-        "title": "Vikramarkudu",
-        "slug": "vikramarkudu-2006",
-        "year": 2006,
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "rating": 7.7,
-        "description": "A thief impersonates a feared police officer.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_034",
-        "title": "Khaleja",
-        "slug": "khaleja-2010",
-        "year": 2010,
-        "genre": [
-            "Fantasy",
-            "Action"
-        ],
-        "rating": 7.6,
-        "description": "A taxi driver becomes a savior to a rural community.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
-    },
-    {
-        "id": "tl_035",
-        "title": "Rudhramadevi",
-        "slug": "rudhramadevi-2015",
-        "year": 2015,
-        "genre": [
-            "Historical",
-            "Drama"
-        ],
-        "rating": 7.2,
-        "description": "The life of a legendary queen who ruled as a warrior.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_036",
-        "title": "Ghajini",
-        "slug": "ghajini-2005",
-        "year": 2005,
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "rating": 7.5,
-        "description": "A businessman with memory loss seeks revenge.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_037",
-        "title": "Attarintiki Daredi",
-        "slug": "attarintiki-daredi-2013",
-        "year": 2013,
-        "genre": [
-            "Family",
-            "Drama"
-        ],
-        "rating": 7.8,
-        "description": "A man tries to reunite his estranged family.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_038",
-        "title": "Kushi",
-        "slug": "kushi-2001",
-        "year": 2001,
-        "genre": [
-            "Romance",
-            "Comedy"
-        ],
-        "rating": 7.9,
-        "description": "A love story between two stubborn individuals.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_039",
-        "title": "Geetha Govindam",
-        "slug": "geetha-govindam-2018",
-        "year": 2018,
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "rating": 7.3,
-        "description": "A young man tries to prove his innocence in love.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_040",
-        "title": "Dear Comrade",
-        "slug": "dear-comrade-2019",
-        "year": 2019,
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "rating": 7.4,
-        "description": "A student leader struggles with anger and love.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_041",
-        "title": "Bichagadu",
-        "slug": "bichagadu-2016",
-        "year": 2016,
-        "genre": [
-            "Drama"
-        ],
-        "rating": 8.3,
-        "description": "A beggar hides a powerful past and destiny.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
-    },
-    {
-        "id": "tl_042",
-        "title": "Agent Sai Srinivasa Athreya",
-        "slug": "agent-sai-srinivasa-athreya-2019",
-        "year": 2019,
-        "genre": [
-            "Thriller",
-            "Mystery"
-        ],
-        "rating": 8.4,
-        "description": "A detective investigates a complex murder case.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_043",
-        "title": "Brochevarevarura",
-        "slug": "brochevarevarura-2019",
-        "year": 2019,
-        "genre": [
-            "Comedy",
-            "Crime"
-        ],
-        "rating": 8.1,
-        "description": "Three friends get entangled in an unexpected crime.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_044",
         "title": "Sita Ramam",
         "slug": "sita-ramam-2022",
         "year": 2022,
@@ -746,15 +186,15 @@
             "Drama"
         ],
         "rating": 8.6,
-        "description": "A soldier’s love story told through letters.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "description": "A soldier’s love story told through heartfelt letters.",
+        "poster": "https://image.tmdb.org/t/p/w500/8ZfN1PZp6Z3A7bK6F8mM0N2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9C5RZQ2H4Z0m8YpZrJH0Z9.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=G0X1S6Y8Y5A"
     },
     {
-        "id": "tl_045",
+        "id": "tl_012",
         "title": "Major",
         "slug": "major-2022",
         "year": 2022,
@@ -764,48 +204,31 @@
         ],
         "rating": 8.1,
         "description": "The life of Major Sandeep Unnikrishnan.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5P8S9N3Z4Y2K1F6M0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z6P4Y2K1M3S9F0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=1pHDn0vQ8VQ"
     },
     {
-        "id": "tl_046",
-        "title": "Kantara (Telugu Dub)",
-        "slug": "kantara-telugu-2022",
-        "year": 2022,
-        "genre": [
-            "Thriller",
-            "Drama"
-        ],
-        "rating": 8.4,
-        "description": "A man confronts tradition, faith, and destiny.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_047",
-        "title": "Vikram (Telugu Dub)",
-        "slug": "vikram-telugu-2022",
-        "year": 2022,
+        "id": "tl_013",
+        "title": "Waltair Veerayya",
+        "slug": "waltair-veerayya-2023",
+        "year": 2023,
         "genre": [
             "Action",
-            "Thriller"
+            "Drama"
         ],
-        "rating": 8.4,
-        "description": "A special agent battles a powerful drug syndicate.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 7.4,
+        "description": "A fisherman takes on powerful criminals to protect his people.",
+        "poster": "https://image.tmdb.org/t/p/w500/3Z8M5N4Y2F1K6S9P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5N4Z8M2Y6F1K3S9P0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=3P2n5f5vQ0A"
     },
     {
-        "id": "tl_048",
+        "id": "tl_014",
         "title": "Dasara",
         "slug": "dasara-2023",
         "year": 2023,
@@ -814,15 +237,15 @@
             "Drama"
         ],
         "rating": 7.5,
-        "description": "A miner rises against the injustice in his village.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
+        "description": "A miner rises against injustice in his village.",
+        "poster": "https://image.tmdb.org/t/p/w500/6P5Z8N2Y4K1F3S9M0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z6P5N2Y4K1F3S9M0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=3l8y0zE8E6A"
     },
     {
-        "id": "tl_049",
+        "id": "tl_015",
         "title": "Virupaksha",
         "slug": "virupaksha-2023",
         "year": 2023,
@@ -832,65 +255,14 @@
         ],
         "rating": 7.7,
         "description": "Strange deaths shake a village with a dark past.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z8N2Y4K1F3S9M6P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z5N2Y4K1F3S8M6P0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=4R1m0P6q0sI"
     },
     {
-        "id": "tl_050",
-        "title": "Salaar",
-        "slug": "salaar-2023",
-        "year": 2023,
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "rating": 8.0,
-        "description": "A violent man becomes the savior of a dystopian kingdom.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_051",
-        "title": "Pushpa 2: The Rule",
-        "slug": "pushpa-2-the-rule-2024",
-        "year": 2024,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 8.3,
-        "description": "Pushpa returns to defend his empire.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_052",
-        "title": "Guntur Kaaram",
-        "slug": "guntur-kaaram-2024",
-        "year": 2024,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 7.0,
-        "description": "A fiery man returns to confront his past and family.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_053",
+        "id": "tl_016",
         "title": "Hi Nanna",
         "slug": "hi-nanna-2023",
         "year": 2023,
@@ -900,183 +272,133 @@
         ],
         "rating": 8.2,
         "description": "A single father’s emotional journey with his daughter.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z8N2Y5K1F3S9M6P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z4N2Y5K1F3S9M6P0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=Zzj9YtH5kU4"
     },
     {
-        "id": "tl_054",
-        "title": "Rangasthalam 2",
-        "slug": "rangasthalam-2-2025",
-        "year": 2025,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 8.5,
-        "description": "The legacy of revolution continues in the village.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_055",
-        "title": "Yuva Ratna",
-        "slug": "yuva-ratna-2024",
-        "year": 2024,
-        "genre": [
-            "Drama",
-            "Political"
-        ],
-        "rating": 7.8,
-        "description": "A young leader challenges corruption and politics.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
-    },
-    {
-        "id": "tl_056",
-        "title": "Maharshi",
-        "slug": "maharshi-2019",
-        "year": 2019,
-        "genre": [
-            "Drama",
-            "Action"
-        ],
-        "rating": 7.2,
-        "description": "A businessman returns to revive his native village.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_057",
-        "title": "Temper",
-        "slug": "temper-2015",
-        "year": 2015,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 7.4,
-        "description": "A corrupt cop reforms after a life-changing incident.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_058",
-        "title": "Brahmotsavam",
-        "slug": "brahmotsavam-2016",
-        "year": 2016,
-        "genre": [
-            "Family",
-            "Drama"
-        ],
-        "rating": 5.5,
-        "description": "Family relationships tested during a wedding celebration.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_059",
-        "title": "Dhruva",
-        "slug": "dhruva-2016",
-        "year": 2016,
+        "id": "tl_017",
+        "title": "Salaar",
+        "slug": "salaar-2023",
+        "year": 2023,
         "genre": [
             "Action",
             "Thriller"
         ],
-        "rating": 8.1,
-        "description": "A super-cop battles a brilliant criminal mastermind.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_060",
-        "title": "Rangasthalam (Extended)",
-        "slug": "rangasthalam-extended-2018",
-        "year": 2018,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 8.5,
-        "description": "Extended cut of the village revolution saga.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
+        "rating": 8.0,
+        "description": "A violent man becomes the savior of a dystopian kingdom.",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z8N4Y2K1F3S9M6P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z5N4Y2K1F3S9M6P0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=4GPvYMK6JxQ"
     },
     {
-        "id": "tl_061",
-        "title": "Goodachari",
-        "slug": "goodachari-2018",
-        "year": 2018,
+        "id": "tl_018",
+        "title": "Guntur Kaaram",
+        "slug": "guntur-kaaram-2024",
+        "year": 2024,
         "genre": [
             "Action",
-            "Spy"
-        ],
-        "rating": 8.0,
-        "description": "A young spy uncovers a massive conspiracy.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_062",
-        "title": "Kshanam",
-        "slug": "kshanam-2016",
-        "year": 2016,
-        "genre": [
-            "Thriller",
-            "Mystery"
-        ],
-        "rating": 8.3,
-        "description": "A man helps a woman search for her missing daughter.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
-    },
-    {
-        "id": "tl_063",
-        "title": "C/O Kancharapalem",
-        "slug": "co-kancharapalem-2018",
-        "year": 2018,
-        "genre": [
             "Drama"
         ],
-        "rating": 8.9,
-        "description": "Multiple love stories unfold in a small town.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
+        "rating": 7.0,
+        "description": "A fiery man returns to confront his past and family.",
+        "poster": "https://image.tmdb.org/t/p/w500/6Z8N4Y2K1F3S9M5P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z6N4Y2K1F3S8M5P0A.jpg",
         "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=K8fG7F2QpXQ"
     },
     {
-        "id": "tl_064",
+        "id": "tl_019",
+        "title": "Hanu-Man",
+        "slug": "hanu-man-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "rating": 8.3,
+        "description": "A superhero rises in a small town.",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z8N4Y2K1F3S9M6P1A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z5N4Y2K1F3S9M6P1A.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Y2zFzS6p8GQ"
+    },
+    {
+        "id": "tl_020",
+        "title": "Eagle",
+        "slug": "eagle-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 7.1,
+        "description": "A mysterious man takes on an international arms cartel.",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z8N2Y5K1F3S9M6P2A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z4N2Y5K1F3S9M6P2A.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=7cJ6C0w4V9g"
+    },
+    {
+        "id": "tl_021",
+        "title": "Baby",
+        "slug": "baby-2023",
+        "year": 2023,
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "rating": 8.1,
+        "description": "A modern love story about friendship, ambition, and heartbreak.",
+        "poster": "https://image.tmdb.org/t/p/w500/8D4Z2Y5K1F3S9M6P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3Z4N2Y5K1F3S9M6P0A.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=YpT0XK0YF9s"
+    },
+    {
+        "id": "tl_022",
+        "title": "Samajavaragamana",
+        "slug": "samajavaragamana-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 7.7,
+        "description": "A humorous tale of a young man caught in family drama.",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z2N8Y5K1F3S9M6P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z2N4Y5K1F3S9M6P0A.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Z2cK3A1fZfQ"
+    },
+    {
+        "id": "tl_023",
+        "title": "Writer Padmabhushan",
+        "slug": "writer-padmabhushan-2023",
+        "year": 2023,
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "rating": 7.8,
+        "description": "An aspiring writer’s struggles and triumphs in life and love.",
+        "poster": "https://image.tmdb.org/t/p/w500/6Z2N4Y5K1F3S9M8P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z2N4Y5K1F3S9M8P0A.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=7A7o4J2J1sE"
+    },
+    {
+        "id": "tl_024",
         "title": "Balagam",
         "slug": "balagam-2023",
         "year": 2023,
@@ -1085,622 +407,1302 @@
             "Drama"
         ],
         "rating": 8.4,
-        "description": "A heartfelt tale of rural family bonds.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
+        "description": "A heartfelt story about family bonds in rural Telangana.",
+        "poster": "https://image.tmdb.org/t/p/w500/2Z4N8Y5K1F3S9M6P0A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7Z4N8Y5K1F3S9M6P0A.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=FzR8yQqQ9bM"
     },
     {
-        "id": "tl_065",
-        "title": "Karthikeya",
-        "slug": "karthikeya-2014",
-        "year": 2014,
+        "id": "tl_025",
+        "title": "Sir",
+        "slug": "sir-2023",
+        "year": 2023,
         "genre": [
-            "Mystery",
-            "Thriller"
+            "Drama",
+            "Education"
         ],
-        "rating": 7.6,
-        "description": "A doctor uncovers dark secrets of a village temple.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_066",
-        "title": "Karthikeya 2",
-        "slug": "karthikeya-2-2022",
-        "year": 2022,
-        "genre": [
-            "Mystery",
-            "Adventure"
-        ],
-        "rating": 8.1,
-        "description": "A quest for an ancient artifact with mythological roots.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
+        "rating": 7.5,
+        "description": "A teacher inspires students in a government school.",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z2N8Y5K1F3S9M6P0B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z2N4Y5K1F3S9M6P0B.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=3D9vQq3qV3k"
     },
     {
-        "id": "tl_067",
-        "title": "Mahanati",
-        "slug": "mahanati-2018",
-        "year": 2018,
+        "id": "tl_026",
+        "title": "Ravanasura",
+        "slug": "ravanasura-2023",
+        "year": 2023,
         "genre": [
-            "Biography",
-            "Drama"
+            "Thriller",
+            "Crime"
         ],
-        "rating": 8.7,
-        "description": "The life of legendary actress Savitri.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_068",
-        "title": "Leader 2",
-        "slug": "leader-2-2024",
-        "year": 2024,
-        "genre": [
-            "Political",
-            "Drama"
-        ],
-        "rating": 8.0,
-        "description": "A new chapter in political reform.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 7.0,
+        "description": "A lawyer with a dark past gets entangled in mysterious murders.",
+        "poster": "https://image.tmdb.org/t/p/w500/8Z2N4Y5K1F3S9M6P0C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3Z2N4Y5K1F3S9M6P0C.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=2Z9x2S7cU8A"
     },
     {
-        "id": "tl_069",
-        "title": "Uyyala Jampala",
-        "slug": "uyyala-jampala-2013",
-        "year": 2013,
+        "id": "tl_027",
+        "title": "Kushi",
+        "slug": "kushi-2023",
+        "year": 2023,
         "genre": [
             "Romance",
             "Drama"
         ],
-        "rating": 7.2,
-        "description": "A village romance with youthful emotions.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
+        "rating": 7.3,
+        "description": "Two people from different ideologies fall in love.",
+        "poster": "https://image.tmdb.org/t/p/w500/9Z2N4Y5K1F3S9M6P0D.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4Z2N4Y5K1F3S9M6P0D.jpg",
         "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=3wHq4Z7sJ8Q"
     },
     {
-        "id": "tl_070",
-        "title": "Prasthanam",
-        "slug": "prasthanam-2010",
-        "year": 2010,
+        "id": "tl_028",
+        "title": "Tiger Nageswara Rao",
+        "slug": "tiger-nageswara-rao-2023",
+        "year": 2023,
         "genre": [
-            "Political",
+            "Action",
+            "Biography"
+        ],
+        "rating": 7.2,
+        "description": "A daring thief becomes a legendary outlaw.",
+        "poster": "https://image.tmdb.org/t/p/w500/6Z2N4Y5K1F3S9M6P0E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z2N4Y5K1F3S9M6P0E.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=bL0xgkM2JkA"
+    },
+    {
+        "id": "tl_029",
+        "title": "Bhagavanth Kesari",
+        "slug": "bhagavanth-kesari-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
             "Drama"
         ],
-        "rating": 8.0,
-        "description": "Power, betrayal, and politics in rural Andhra.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
+        "rating": 7.4,
+        "description": "A powerful man mentors a young woman to fight injustice.",
+        "poster": "https://image.tmdb.org/t/p/w500/7Z2N4Y5K1F3S9M6P0F.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2Z2N4Y5K1F3S9M6P0F.jpg",
         "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=F7M5yJp4o4E"
     },
     {
-        "id": "tl_071",
-        "title": "Rudhramadevi 2",
-        "slug": "rudhramadevi-2-2026",
-        "year": 2026,
+        "id": "tl_030",
+        "title": "Skanda",
+        "slug": "skanda-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 6.8,
+        "description": "A young man uncovers a massive political conspiracy.",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z2N4Y5K1F3S9M6P0G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z2N4Y5K1F3S9M6P0G.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=5rX1k8ZKpP4"
+    },
+    {
+        "id": "tl_031",
+        "title": "Dunki (Telugu Dub)",
+        "slug": "dunki-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "rating": 7.9,
+        "description": "A heartfelt story about immigration and friendship.",
+        "poster": "https://image.tmdb.org/t/p/w500/9Z2N4Y5K1F3S9M6P0H.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3Z2N4Y5K1F3S9M6P0H.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Z1J5x2G7Q0s"
+    },
+    {
+        "id": "tl_032",
+        "title": "Animal (Telugu Dub)",
+        "slug": "animal-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 8.2,
+        "description": "A violent tale of love, revenge, and redemption.",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z8N2Y5K1F3S9M6P0H.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z4N2Y5K1F3S9M6P0H.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=V8ZP2Q1m5xA"
+    },
+    {
+        "id": "tl_033",
+        "title": "Saindhav",
+        "slug": "saindhav-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 7.3,
+        "description": "A man with a dark past returns to protect his family.",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z8N4Y2K1F3S9M6P0I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z5N4Y2K1F3S9M6P0I.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=2X5m1P4L8ZQ"
+    },
+    {
+        "id": "tl_034",
+        "title": "Extra Ordinary Man",
+        "slug": "extra-ordinary-man-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "rating": 6.5,
+        "description": "A struggling writer becomes an unlikely hero.",
+        "poster": "https://image.tmdb.org/t/p/w500/6Z8N4Y2K1F3S9M6P0J.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z6N4Y2K1F3S9M6P0J.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Q4Yp2J7KxZ8"
+    },
+    {
+        "id": "tl_035",
+        "title": "Operation Valentine",
+        "slug": "operation-valentine-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Patriotic"
+        ],
+        "rating": 7.1,
+        "description": "An air force pilot faces a dangerous mission for the nation.",
+        "poster": "https://image.tmdb.org/t/p/w500/7Z8N4Y2K1F3S9M6P0K.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2Z8N4Y2K1F3S9M6P0K.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=H0R4pJxY8N0"
+    },
+    {
+        "id": "tl_036",
+        "title": "Om Bheem Bush",
+        "slug": "om-bheem-bush-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "rating": 7.0,
+        "description": "Three friends get caught in supernatural chaos.",
+        "poster": "https://image.tmdb.org/t/p/w500/2Z8N4Y2K1F3S9M6P0L.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7Z8N4Y2K1F3S9M6P0L.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=3H2LZ8K4YQ0"
+    },
+    {
+        "id": "tl_037",
+        "title": "Tillu Square",
+        "slug": "tillu-square-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "rating": 8.0,
+        "description": "The hilarious return of Tillu in another chaotic adventure.",
+        "poster": "https://image.tmdb.org/t/p/w500/3Z8N4Y2K1F3S9M6P0M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z8N4Y2K1F3S9M6P0M.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=JY3x8H2K4ZQ"
+    },
+    {
+        "id": "tl_038",
+        "title": "The Family Star",
+        "slug": "the-family-star-2024",
+        "year": 2024,
+        "genre": [
+            "Drama",
+            "Family"
+        ],
+        "rating": 6.9,
+        "description": "A middle-class man balances love, family, and ambition.",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z8N4Y2K1F3S9M6P0N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z8N4Y2K1F3S9M6P0N.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=8J2LZ5H4YQ0"
+    },
+    {
+        "id": "tl_039",
+        "title": "Razakar",
+        "slug": "razakar-2024",
+        "year": 2024,
         "genre": [
             "Historical",
             "Drama"
         ],
-        "rating": 8.3,
-        "description": "The queen’s legacy continues through generations.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
+        "rating": 7.2,
+        "description": "A powerful story set during the Hyderabad liberation.",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z8N4Y2K1F3S9M6P0O.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z8N4Y2K1F3S9M6P0O.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=KZ4JH8Y2LQ0"
     },
     {
-        "id": "tl_072",
-        "title": "Happy Days 2",
-        "slug": "happy-days-2-2025",
-        "year": 2025,
+        "id": "tl_040",
+        "title": "Gaami",
+        "slug": "gaami-2024",
+        "year": 2024,
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.4,
+        "description": "A mystical journey of a man searching for healing and truth.",
+        "poster": "https://image.tmdb.org/t/p/w500/6Z8N4Y2K1F3S9M6P0P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z8N4Y2K1F3S9M6P0P.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=4Z2H8KJYQ0M"
+    },
+    {
+        "id": "tl_041",
+        "title": "Mathu Vadalara 2",
+        "slug": "mathu-vadalara-2-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "rating": 7.8,
+        "description": "The quirky duo returns with another hilarious crime adventure.",
+        "poster": "https://image.tmdb.org/t/p/w500/1Z8N4Y2K1F3S9M6P0Q.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7Z8N4Y2K1F3S9M6P0Q.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Qk3JZ8H2Y4M"
+    },
+    {
+        "id": "tl_042",
+        "title": "Ambajipeta Marriage Band",
+        "slug": "ambajipeta-marriage-band-2024",
+        "year": 2024,
         "genre": [
             "Drama",
             "Romance"
         ],
-        "rating": 7.9,
-        "description": "New generation of college friendships.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 7.6,
+        "description": "A romantic tale set in a small town revolving around a wedding band.",
+        "poster": "https://image.tmdb.org/t/p/w500/2Z8N4Y2K1F3S9M6P0R.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z8N4Y2K1F3S9M6P0R.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=ZK4YJ2H8Q3M"
     },
     {
-        "id": "tl_073",
-        "title": "Kushi Revisited",
-        "slug": "kushi-revisited-2024",
+        "id": "tl_043",
+        "title": "Ooru Peru Bhairavakona",
+        "slug": "ooru-peru-bhairavakona-2024",
+        "year": 2024,
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "rating": 7.4,
+        "description": "A journalist uncovers dark secrets in a mysterious village.",
+        "poster": "https://image.tmdb.org/t/p/w500/3Z8N4Y2K1F3S9M6P0S.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z8N4Y2K1F3S9M6P0S.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=J4ZK2H8YQ3M"
+    },
+    {
+        "id": "tl_044",
+        "title": "Prasanna Vadanam",
+        "slug": "prasanna-vadanam-2024",
+        "year": 2024,
+        "genre": [
+            "Thriller",
+            "Drama"
+        ],
+        "rating": 7.1,
+        "description": "A man with a rare condition helps solve a complex crime.",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z8N4Y2K1F3S9M6P0T.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2Z8N4Y2K1F3S9M6P0T.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=H2JZ8K4YQ3M"
+    },
+    {
+        "id": "tl_045",
+        "title": "Harom Hara",
+        "slug": "harom-hara-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 7.2,
+        "description": "A man rises against oppression in a violent world.",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z8N4Y2K1F3S9M6P0U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z8N4Y2K1F3S9M6P0U.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Z2J8H4YQ3KM"
+    },
+    {
+        "id": "tl_046",
+        "title": "Love Me If You Dare",
+        "slug": "love-me-if-you-dare-2024",
         "year": 2024,
         "genre": [
             "Romance",
-            "Drama"
-        ],
-        "rating": 7.8,
-        "description": "A modern retelling of a classic love story.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_074",
-        "title": "Adhurs",
-        "slug": "adhurs-2010",
-        "year": 2010,
-        "genre": [
-            "Action",
-            "Comedy"
-        ],
-        "rating": 7.4,
-        "description": "Twin brothers with contrasting personalities.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_075",
-        "title": "Bhale Bhale Magadivoy",
-        "slug": "bhale-bhale-magadivoy-2015",
-        "year": 2015,
-        "genre": [
-            "Romance",
-            "Comedy"
-        ],
-        "rating": 7.7,
-        "description": "A forgetful man tries to win his love.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_076",
-        "title": "Ugramm (Telugu Dub)",
-        "slug": "ugramm-telugu-2014",
-        "year": 2014,
-        "genre": [
-            "Action",
             "Thriller"
         ],
-        "rating": 7.9,
-        "description": "A man returns to settle scores in his hometown.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
+        "rating": 6.9,
+        "description": "A love story with dark twists and dangerous choices.",
+        "poster": "https://image.tmdb.org/t/p/w500/6Z8N4Y2K1F3S9M6P0V.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Z8N4Y2K1F3S9M6P0V.jpg",
         "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=K4JZ2H8YQ3M"
     },
     {
-        "id": "tl_077",
-        "title": "Sarrainodu",
-        "slug": "sarrainodu-2016",
-        "year": 2016,
+        "id": "tl_047",
+        "title": "Shaitaan (Telugu Dub)",
+        "slug": "shaitaan-telugu-2024",
+        "year": 2024,
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "rating": 7.3,
+        "description": "A family faces a terrifying supernatural force.",
+        "poster": "https://image.tmdb.org/t/p/w500/7Z8N4Y2K1F3S9M6P0W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3Z8N4Y2K1F3S9M6P0W.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=YQ3M4JZ2H8K"
+    },
+    {
+        "id": "tl_048",
+        "title": "Double Engine",
+        "slug": "double-engine-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 7.0,
+        "description": "A lighthearted story of two friends chasing their dreams.",
+        "poster": "https://image.tmdb.org/t/p/w500/8Z8N4Y2K1F3S9M6P0X.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4Z8N4Y2K1F3S9M6P0X.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=JZ2H8YQ3M4K"
+    },
+    {
+        "id": "tl_049",
+        "title": "Aa Okkati Adakku",
+        "slug": "aa-okkati-adakku-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "rating": 6.8,
+        "description": "A humorous take on everyday family problems.",
+        "poster": "https://image.tmdb.org/t/p/w500/9Z8N4Y2K1F3S9M6P0Y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5Z8N4Y2K1F3S9M6P0Y.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=H8YQ3M4KJZ2"
+    },
+    {
+        "id": "tl_050",
+        "title": "Buddy",
+        "slug": "buddy-2024",
+        "year": 2024,
         "genre": [
             "Action",
+            "Drama"
+        ],
+        "rating": 7.0,
+        "description": "An action-packed story of friendship and sacrifice.",
+        "poster": "https://image.tmdb.org/t/p/w500/0Z8N4Y2K1F3S9M6P0Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6Z8N4Y2K1F3S9M6P0Z.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=4KJZ2H8YQ3M"
+    },
+    {
+        "id": "tl_051",
+        "title": "Rules Ranjann",
+        "slug": "rules-ranjann-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
             "Drama"
         ],
         "rating": 6.9,
-        "description": "A former soldier takes on a powerful politician.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
+        "description": "A young man obsessed with rules finds love in unexpected ways.",
+        "poster": "https://image.tmdb.org/t/p/w500/1A51RanjannPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1A51RanjannBackdrop.jpg",
         "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=JY5X8kRanjann"
     },
     {
-        "id": "tl_078",
-        "title": "Rangasthalam Redux",
-        "slug": "rangasthalam-redux-2026",
-        "year": 2026,
+        "id": "tl_052",
+        "title": "Ugramm",
+        "slug": "ugramm-2023",
+        "year": 2023,
         "genre": [
             "Action",
             "Drama"
         ],
-        "rating": 8.6,
-        "description": "A reimagined revolution with modern storytelling.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
+        "rating": 7.1,
+        "description": "A man’s violent past resurfaces when his loved ones are threatened.",
+        "poster": "https://image.tmdb.org/t/p/w500/2A52UgrammPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2A52UgrammBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=KX8J2Ugramm"
     },
     {
-        "id": "tl_079",
-        "title": "Kotha Bangaru Lokam",
-        "slug": "kotha-bangaru-lokam-2008",
-        "year": 2008,
+        "id": "tl_053",
+        "title": "Mem Famous",
+        "slug": "mem-famous-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "rating": 7.3,
+        "description": "A small-town boy dreams of becoming a social media star.",
+        "poster": "https://image.tmdb.org/t/p/w500/3A53MemFamousPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3A53MemFamousBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=FamousMem53"
+    },
+    {
+        "id": "tl_054",
+        "title": "Bedurulanka 2012",
+        "slug": "bedurulanka-2012-2023",
+        "year": 2023,
+        "genre": [
+            "Drama",
+            "Mystery"
+        ],
+        "rating": 7.0,
+        "description": "A mysterious event in a coastal village sparks chaos.",
+        "poster": "https://image.tmdb.org/t/p/w500/4A54BedurulankaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4A54BedurulankaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Bedurulanka2012"
+    },
+    {
+        "id": "tl_055",
+        "title": "Kalyanam Kamaneeyam",
+        "slug": "kalyanam-kamaneeyam-2023",
+        "year": 2023,
         "genre": [
             "Romance",
             "Drama"
         ],
-        "rating": 7.2,
-        "description": "Young love faces harsh realities of life.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_080",
-        "title": "Robo 2.0",
-        "slug": "robo-2-2018",
-        "year": 2018,
-        "genre": [
-            "Sci-Fi",
-            "Action"
-        ],
-        "rating": 6.5,
-        "description": "A battle between two powerful androids.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_081",
-        "title": "Gamyam",
-        "slug": "gamyam-2008",
-        "year": 2008,
-        "genre": [
-            "Drama",
-            "Road"
-        ],
-        "rating": 8.0,
-        "description": "Three strangers embark on a life-changing journey.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "720p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_082",
-        "title": "Sye 2",
-        "slug": "sye-2-2025",
-        "year": 2025,
-        "genre": [
-            "Sports",
-            "Drama"
-        ],
-        "rating": 8.1,
-        "description": "A new team fights to save their college.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 6.8,
+        "description": "A love story between a groom and his bride after marriage.",
+        "poster": "https://image.tmdb.org/t/p/w500/5A55KalyanamPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5A55KalyanamBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=KalyanamKamaneeyam"
     },
     {
-        "id": "tl_083",
-        "title": "Prati Roju",
-        "slug": "prati-roju-2024",
-        "year": 2024,
-        "genre": [
-            "Drama"
-        ],
-        "rating": 7.5,
-        "description": "Everyday struggles of common people.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
-    },
-    {
-        "id": "tl_084",
-        "title": "Leader: The Beginning",
-        "slug": "leader-the-beginning-2023",
-        "year": 2023,
-        "genre": [
-            "Political",
-            "Drama"
-        ],
-        "rating": 7.9,
-        "description": "The early days of a political reformer.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_085",
-        "title": "Agent",
-        "slug": "agent-2023",
+        "id": "tl_056",
+        "title": "Spy",
+        "slug": "spy-2023",
         "year": 2023,
         "genre": [
             "Action",
-            "Spy"
+            "Thriller"
         ],
-        "rating": 6.8,
-        "description": "A rogue agent faces an international conspiracy.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
+        "rating": 6.7,
+        "description": "An intelligence officer uncovers secrets that could change history.",
+        "poster": "https://image.tmdb.org/t/p/w500/6A56SpyPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6A56SpyBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=Spy2023Trailer"
     },
     {
-        "id": "tl_086",
-        "title": "Mallesham",
-        "slug": "mallesham-2019",
-        "year": 2019,
+        "id": "tl_057",
+        "title": "Mangalavaaram",
+        "slug": "mangalavaaram-2023",
+        "year": 2023,
         "genre": [
-            "Biography",
+            "Thriller",
+            "Mystery"
+        ],
+        "rating": 7.2,
+        "description": "A series of mysterious murders shakes a village every Tuesday.",
+        "poster": "https://image.tmdb.org/t/p/w500/7A57MangalavaaramPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7A57MangalavaaramBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=MangalavaaramTrailer"
+    },
+    {
+        "id": "tl_058",
+        "title": "Devil: The British Secret Agent",
+        "slug": "devil-british-secret-agent-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Mystery"
+        ],
+        "rating": 7.4,
+        "description": "A secret agent uncovers conspiracies during colonial rule.",
+        "poster": "https://image.tmdb.org/t/p/w500/8A58DevilPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8A58DevilBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=DevilAgentTrailer"
+    },
+    {
+        "id": "tl_059",
+        "title": "Bhola Shankar",
+        "slug": "bhola-shankar-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
             "Drama"
         ],
-        "rating": 8.2,
-        "description": "The story of an innovator who transformed weaving.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 6.5,
+        "description": "A righteous man fights against injustice in society.",
+        "poster": "https://image.tmdb.org/t/p/w500/9A59BholaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9A59BholaBackdrop.jpg",
         "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=BholaShankarTrailer"
     },
     {
-        "id": "tl_087",
-        "title": "Color Photo",
-        "slug": "color-photo-2020",
-        "year": 2020,
+        "id": "tl_060",
+        "title": "Gandeevadhari Arjuna",
+        "slug": "gandeevadhari-arjuna-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 7.0,
+        "description": "A security officer must protect a VIP during a dangerous mission.",
+        "poster": "https://image.tmdb.org/t/p/w500/0A60ArjunaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/0A60ArjunaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=GandeevadhariArjuna"
+    },
+    {
+        "id": "tl_061",
+        "title": "Hidimbha",
+        "slug": "hidimbha-2023",
+        "year": 2023,
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "rating": 7.1,
+        "description": "A cop investigates a series of ritualistic murders.",
+        "poster": "https://image.tmdb.org/t/p/w500/1B61HidimbhaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1B61HidimbhaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=HidimbhaTrailer"
+    },
+    {
+        "id": "tl_062",
+        "title": "Keedaa Cola",
+        "slug": "keedaa-cola-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "rating": 7.5,
+        "description": "A dark comedy about greed, crime, and unexpected chaos.",
+        "poster": "https://image.tmdb.org/t/p/w500/2B62KeedaaColaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2B62KeedaaColaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=KeedaaColaTrailer"
+    },
+    {
+        "id": "tl_063",
+        "title": "Month of Madhu",
+        "slug": "month-of-madhu-2023",
+        "year": 2023,
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "rating": 7.4,
+        "description": "A couple reflects on their relationship during a trip.",
+        "poster": "https://image.tmdb.org/t/p/w500/3B63MonthMadhuPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3B63MonthMadhuBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=MonthOfMadhuTrailer"
+    },
+    {
+        "id": "tl_064",
+        "title": "Changure Bangaru Raja",
+        "slug": "changure-bangaru-raja-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 6.9,
+        "description": "A lighthearted comedy set in a rural village.",
+        "poster": "https://image.tmdb.org/t/p/w500/4B64ChangurePoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4B64ChangureBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=ChangureBangaruRajaTrailer"
+    },
+    {
+        "id": "tl_065",
+        "title": "Pareshan",
+        "slug": "pareshan-2023",
+        "year": 2023,
         "genre": [
             "Drama",
             "Romance"
         ],
-        "rating": 8.3,
-        "description": "A photographer faces societal barriers in love.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
+        "rating": 7.2,
+        "description": "A love story amid social struggles in Telangana.",
+        "poster": "https://image.tmdb.org/t/p/w500/5B65PareshanPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5B65PareshanBackdrop.jpg",
         "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=PareshanTrailer"
     },
     {
-        "id": "tl_088",
-        "title": "Vakeel Saab",
-        "slug": "vakeel-saab-2021",
-        "year": 2021,
-        "genre": [
-            "Courtroom",
-            "Drama"
-        ],
-        "rating": 7.8,
-        "description": "A lawyer fights for justice in a sensitive case.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_089",
-        "title": "Shyam Singha Roy",
-        "slug": "shyam-singha-roy-2021",
-        "year": 2021,
+        "id": "tl_066",
+        "title": "Annapurna Photo Studio",
+        "slug": "annapurna-photo-studio-2023",
+        "year": 2023,
         "genre": [
             "Drama",
-            "Fantasy"
+            "Family"
         ],
-        "rating": 7.6,
-        "description": "A filmmaker uncovers his past life connections.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 7.8,
+        "description": "A photographer’s emotional journey through changing times.",
+        "poster": "https://image.tmdb.org/t/p/w500/6B66AnnapurnaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6B66AnnapurnaBackdrop.jpg",
         "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=AnnapurnaPhotoStudioTrailer"
     },
     {
-        "id": "tl_090",
-        "title": "Radhe Shyam",
-        "slug": "radhe-shyam-2022",
-        "year": 2022,
+        "id": "tl_067",
+        "title": "Miss Shetty Mr Polishetty",
+        "slug": "miss-shetty-mr-polishetty-2023",
+        "year": 2023,
         "genre": [
             "Romance",
-            "Drama"
+            "Comedy"
         ],
-        "rating": 5.3,
-        "description": "A palmist falls in love while questioning destiny.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
+        "rating": 7.3,
+        "description": "An unconventional love story between two opposites.",
+        "poster": "https://image.tmdb.org/t/p/w500/7B67ShettyPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7B67ShettyBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=MissShettyTrailer"
     },
     {
-        "id": "tl_091",
-        "title": "Kushi 2",
-        "slug": "kushi-2-2026",
-        "year": 2026,
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "rating": 8.0,
-        "description": "A new chapter of timeless love.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_092",
-        "title": "Pushpa: The Legacy",
-        "slug": "pushpa-the-legacy-2027",
-        "year": 2027,
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "rating": 8.7,
-        "description": "The saga of Pushpa’s empire across generations.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
-    },
-    {
-        "id": "tl_093",
-        "title": "Robo Reborn",
-        "slug": "robo-reborn-2026",
-        "year": 2026,
-        "genre": [
-            "Sci-Fi",
-            "Action"
-        ],
-        "rating": 8.2,
-        "description": "The android returns with a new consciousness.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_094",
-        "title": "RRR: The Untold Story",
-        "slug": "rrr-the-untold-story-2026",
-        "year": 2026,
-        "genre": [
-            "Historical",
-            "Drama"
-        ],
-        "rating": 8.8,
-        "description": "The hidden chapters of two legendary revolutionaries.",
-        "poster": "https://image.tmdb.org/t/p/w500/9X2Z4N7S8D5P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4X5Z8N2S9P3D7M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
-    },
-    {
-        "id": "tl_095",
-        "title": "Mahaveerudu",
-        "slug": "mahaveerudu-2023",
+        "id": "tl_068",
+        "title": "Bhagavanth Kesari (Extended)",
+        "slug": "bhagavanth-kesari-extended-2023",
         "year": 2023,
         "genre": [
             "Action",
-            "Fantasy"
+            "Drama"
         ],
-        "rating": 7.3,
-        "description": "A timid cartoonist gains heroic powers.",
-        "poster": "https://image.tmdb.org/t/p/w500/5X9Z4N7S8D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X8Z2S3N5P4D7M6F1YQH0.jpg",
+        "rating": 7.4,
+        "description": "An expanded cut of the action drama.",
+        "poster": "https://image.tmdb.org/t/p/w500/8B68KesariPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8B68KesariBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=KesariExtendedTrailer"
     },
     {
-        "id": "tl_096",
-        "title": "Balayya Unstoppable",
-        "slug": "balayya-unstoppable-2024",
+        "id": "tl_069",
+        "title": "Eagle (Extended)",
+        "slug": "eagle-extended-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 7.2,
+        "description": "An extended version with additional action sequences.",
+        "poster": "https://image.tmdb.org/t/p/w500/9B69EaglePoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9B69EagleBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=EagleExtendedTrailer"
+    },
+    {
+        "id": "tl_070",
+        "title": "Sundaram Master",
+        "slug": "sundaram-master-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 7.0,
+        "description": "A school teacher brings change in a small town.",
+        "poster": "https://image.tmdb.org/t/p/w500/0B70SundaramPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/0B70SundaramBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=SundaramMasterTrailer"
+    },
+    {
+        "id": "tl_071",
+        "title": "Hanuman Junction (Re-Release)",
+        "slug": "hanuman-junction-rerelease-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 7.0,
+        "description": "A nostalgic re-release of the classic comedy-drama.",
+        "poster": "https://image.tmdb.org/t/p/w500/1C71HanumanPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1C71HanumanBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=HanumanJunctionTrailer"
+    },
+    {
+        "id": "tl_072",
+        "title": "Gam Gam Ganesha",
+        "slug": "gam-gam-ganesha-2024",
+        "year": 2024,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 7.2,
+        "description": "A fun-filled story revolving around a festival and family ties.",
+        "poster": "https://image.tmdb.org/t/p/w500/2C72GamPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2C72GamBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=GamGamGaneshaTrailer"
+    },
+    {
+        "id": "tl_073",
+        "title": "Sri Rama Rajyamlo Bheemaraju",
+        "slug": "sri-rama-rajyamlo-bheemaraju-2023",
+        "year": 2023,
+        "genre": [
+            "Drama",
+            "Action"
+        ],
+        "rating": 6.8,
+        "description": "A man stands up against injustice in a politically charged environment.",
+        "poster": "https://image.tmdb.org/t/p/w500/3C73BheemarajuPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3C73BheemarajuBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=BheemarajuTrailer"
+    },
+    {
+        "id": "tl_074",
+        "title": "Pindam",
+        "slug": "pindam-2023",
+        "year": 2023,
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "rating": 6.9,
+        "description": "A family confronts terrifying supernatural events in their home.",
+        "poster": "https://image.tmdb.org/t/p/w500/4C74PindamPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4C74PindamBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=PindamTrailer"
+    },
+    {
+        "id": "tl_075",
+        "title": "Kota Bommali PS",
+        "slug": "kota-bommali-ps-2023",
+        "year": 2023,
+        "genre": [
+            "Thriller",
+            "Crime"
+        ],
+        "rating": 7.3,
+        "description": "A tense thriller involving police, criminals, and political conspiracies.",
+        "poster": "https://image.tmdb.org/t/p/w500/5C75KotaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5C75KotaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=KotaBommaliTrailer"
+    },
+    {
+        "id": "tl_076",
+        "title": "Natho Nenu",
+        "slug": "natho-nenu-2023",
+        "year": 2023,
+        "genre": [
+            "Drama"
+        ],
+        "rating": 7.1,
+        "description": "A journey of self-discovery and reconciliation.",
+        "poster": "https://image.tmdb.org/t/p/w500/6C76NathoPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6C76NathoBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=NathoNenuTrailer"
+    },
+    {
+        "id": "tl_077",
+        "title": "Chinna",
+        "slug": "chinna-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 6.7,
+        "description": "An emotional action drama about family and redemption.",
+        "poster": "https://image.tmdb.org/t/p/w500/7C77ChinnaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7C77ChinnaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=ChinnaTrailer"
+    },
+    {
+        "id": "tl_078",
+        "title": "Ramabanam",
+        "slug": "ramabanam-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 6.5,
+        "description": "A man returns to protect his family from enemies.",
+        "poster": "https://image.tmdb.org/t/p/w500/8C78RamabanamPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8C78RamabanamBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=RamabanamTrailer"
+    },
+    {
+        "id": "tl_079",
+        "title": "Bhuvana Vijayam",
+        "slug": "bhuvana-vijayam-2023",
+        "year": 2023,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "rating": 7.0,
+        "description": "A group of friends embark on a fun-filled adventure.",
+        "poster": "https://image.tmdb.org/t/p/w500/9C79BhuvanaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9C79BhuvanaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=BhuvanaVijayamTrailer"
+    },
+    {
+        "id": "tl_080",
+        "title": "Sodala",
+        "slug": "sodala-2023",
+        "year": 2023,
+        "genre": [
+            "Drama",
+            "Family"
+        ],
+        "rating": 6.9,
+        "description": "A touching story of family values and relationships.",
+        "poster": "https://image.tmdb.org/t/p/w500/0C80SodalaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/0C80SodalaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=SodalaTrailer"
+    },
+    {
+        "id": "tl_081",
+        "title": "Katha Venuka Katha",
+        "slug": "katha-venuka-katha-2023",
+        "year": 2023,
+        "genre": [
+            "Mystery",
+            "Drama"
+        ],
+        "rating": 7.0,
+        "description": "A suspenseful tale of secrets behind a murder.",
+        "poster": "https://image.tmdb.org/t/p/w500/1D81KathaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1D81KathaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=KathaVenukaKathaTrailer"
+    },
+    {
+        "id": "tl_082",
+        "title": "Maa Oori Polimera 2",
+        "slug": "maa-oori-polimera-2-2023",
+        "year": 2023,
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "rating": 7.4,
+        "description": "The chilling sequel that uncovers dark village secrets.",
+        "poster": "https://image.tmdb.org/t/p/w500/2D82PolimeraPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2D82PolimeraBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Polimera2Trailer"
+    },
+    {
+        "id": "tl_083",
+        "title": "Polimera",
+        "slug": "polimera-2023",
+        "year": 2023,
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "rating": 7.3,
+        "description": "A police officer investigates occult practices in a village.",
+        "poster": "https://image.tmdb.org/t/p/w500/3D83PolimeraPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3D83PolimeraBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=PolimeraTrailer"
+    },
+    {
+        "id": "tl_084",
+        "title": "Viduthalai (Telugu Dub)",
+        "slug": "viduthalai-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 8.1,
+        "description": "A gripping tale of police, rebels, and moral conflict.",
+        "poster": "https://image.tmdb.org/t/p/w500/4D84ViduthalaiPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4D84ViduthalaiBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=ViduthalaiTrailer"
+    },
+    {
+        "id": "tl_085",
+        "title": "Sapta Sagaradaache Ello (Telugu Dub)",
+        "slug": "sapta-sagaradaache-ello-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "rating": 8.3,
+        "description": "A deeply emotional love story tested by fate.",
+        "poster": "https://image.tmdb.org/t/p/w500/5D85SaptaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5D85SaptaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=SaptaSagaradaacheElloTrailer"
+    },
+    {
+        "id": "tl_086",
+        "title": "Leo (Telugu Dub)",
+        "slug": "leo-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 7.9,
+        "description": "A café owner with a violent past is forced back into action.",
+        "poster": "https://image.tmdb.org/t/p/w500/6D86LeoPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6D86LeoBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=LeoTrailer"
+    },
+    {
+        "id": "tl_087",
+        "title": "Jawan (Telugu Dub)",
+        "slug": "jawan-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 8.0,
+        "description": "A vigilante fights corruption using unconventional methods.",
+        "poster": "https://image.tmdb.org/t/p/w500/7D87JawanPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7D87JawanBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=JawanTrailer"
+    },
+    {
+        "id": "tl_088",
+        "title": "Salaar: Part 1 – Ceasefire (Extended)",
+        "slug": "salaar-ceasefire-extended-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 8.0,
+        "description": "An extended version of the epic action drama.",
+        "poster": "https://image.tmdb.org/t/p/w500/8D88SalaarPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8D88SalaarBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=SalaarExtendedTrailer"
+    },
+    {
+        "id": "tl_089",
+        "title": "Tiger 3 (Telugu Dub)",
+        "slug": "tiger-3-telugu-2023",
+        "year": 2023,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 7.5,
+        "description": "A super-spy faces his toughest mission yet.",
+        "poster": "https://image.tmdb.org/t/p/w500/9D89TigerPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9D89TigerBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Tiger3Trailer"
+    },
+    {
+        "id": "tl_090",
+        "title": "Fighter (Telugu Dub)",
+        "slug": "fighter-telugu-2024",
         "year": 2024,
         "genre": [
             "Action",
             "Drama"
         ],
         "rating": 7.6,
-        "description": "A legendary figure takes on injustice again.",
-        "poster": "https://image.tmdb.org/t/p/w500/8Z4N5X7S9D2P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "description": "Indian Air Force pilots fight for honor and country.",
+        "poster": "https://image.tmdb.org/t/p/w500/0D90FighterPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/0D90FighterBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=FighterTrailer"
     },
     {
-        "id": "tl_097",
-        "title": "Jai Lava Kusa",
-        "slug": "jai-lava-kusa-2017",
-        "year": 2017,
+        "id": "tl_091",
+        "title": "Yatra 2",
+        "slug": "yatra-2-2024",
+        "year": 2024,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "rating": 7.6,
+        "description": "The political journey of a leader and his fight for democracy.",
+        "poster": "https://image.tmdb.org/t/p/w500/1E91Yatra2Poster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1E91Yatra2Backdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Yatra2Trailer"
+    },
+    {
+        "id": "tl_092",
+        "title": "Operation Valentine (Extended)",
+        "slug": "operation-valentine-extended-2024",
+        "year": 2024,
         "genre": [
             "Action",
-            "Drama"
+            "Patriotic"
         ],
-        "rating": 6.8,
-        "description": "Three brothers take different paths in life.",
-        "poster": "https://image.tmdb.org/t/p/w500/2X9Z5N4S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8X4Z7N2S3P5D9M6F1YQH0.jpg",
-        "language": "Telugu",
-        "quality": "1080p",
-        "trailer": "https://www.youtube.com/watch?v=7X9Z4N2S3QH"
-    },
-    {
-        "id": "tl_098",
-        "title": "Leader's Return",
-        "slug": "leaders-return-2027",
-        "year": 2027,
-        "genre": [
-            "Political",
-            "Drama"
-        ],
-        "rating": 8.5,
-        "description": "A retired leader re-enters politics for reform.",
-        "poster": "https://image.tmdb.org/t/p/w500/4Z2X5N9S7D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9X4Z7N2S3P5D8M6F1YQH0.jpg",
+        "rating": 7.2,
+        "description": "An extended cut of the aerial action thriller.",
+        "poster": "https://image.tmdb.org/t/p/w500/2E92ValentinePoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2E92ValentineBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=4X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=OperationValentineExtendedTrailer"
     },
     {
-        "id": "tl_099",
-        "title": "Baahubali: The Legacy",
-        "slug": "baahubali-the-legacy-2028",
-        "year": 2028,
+        "id": "tl_093",
+        "title": "Bhimaa",
+        "slug": "bhimaa-2024",
+        "year": 2024,
         "genre": [
             "Action",
             "Fantasy"
         ],
-        "rating": 9.0,
-        "description": "The epic saga continues across generations.",
-        "poster": "https://image.tmdb.org/t/p/w500/7Z4X2N9S5D8P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5X4Z7N2S3P9D8M6F1YQH0.jpg",
+        "rating": 7.0,
+        "description": "A man with divine powers battles evil forces.",
+        "poster": "https://image.tmdb.org/t/p/w500/3E93BhimaaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3E93BhimaaBackdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=9X4Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=BhimaaTrailer"
+    },
+    {
+        "id": "tl_094",
+        "title": "Ooru Peru Bhairavakona (Extended)",
+        "slug": "ooru-peru-bhairavakona-extended-2024",
+        "year": 2024,
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "rating": 7.5,
+        "description": "An extended cut with deeper mystery and suspense.",
+        "poster": "https://image.tmdb.org/t/p/w500/4E94BhairavaPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4E94BhairavaBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=BhairavakonaExtendedTrailer"
+    },
+    {
+        "id": "tl_095",
+        "title": "Kalki 2898 AD",
+        "slug": "kalki-2898-ad-2024",
+        "year": 2024,
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "rating": 8.4,
+        "description": "A futuristic epic blending mythology with science fiction.",
+        "poster": "https://image.tmdb.org/t/p/w500/5E95KalkiPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5E95KalkiBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=Kalki2898ADTrailer"
+    },
+    {
+        "id": "tl_096",
+        "title": "Mr. Bachchan",
+        "slug": "mr-bachchan-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 7.1,
+        "description": "A tax officer takes on powerful forces in society.",
+        "poster": "https://image.tmdb.org/t/p/w500/6E96BachchanPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6E96BachchanBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=MrBachchanTrailer"
+    },
+    {
+        "id": "tl_097",
+        "title": "Devara: Part 1",
+        "slug": "devara-part-1-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "rating": 8.0,
+        "description": "A powerful man rises against injustice in a coastal village.",
+        "poster": "https://image.tmdb.org/t/p/w500/7E97DevaraPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7E97DevaraBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=DevaraTrailer"
+    },
+    {
+        "id": "tl_098",
+        "title": "Game Changer",
+        "slug": "game-changer-2024",
+        "year": 2024,
+        "genre": [
+            "Political",
+            "Drama"
+        ],
+        "rating": 7.8,
+        "description": "A bureaucrat takes on corruption to reform the system.",
+        "poster": "https://image.tmdb.org/t/p/w500/8E98GameChangerPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8E98GameChangerBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=GameChangerTrailer"
+    },
+    {
+        "id": "tl_099",
+        "title": "Double iSmart",
+        "slug": "double-ismart-2024",
+        "year": 2024,
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "rating": 7.4,
+        "description": "A high-octane sequel with advanced technology and crime.",
+        "poster": "https://image.tmdb.org/t/p/w500/9E99DoubleISmartPoster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9E99DoubleISmartBackdrop.jpg",
+        "language": "Telugu",
+        "quality": "4K",
+        "trailer": "https://www.youtube.com/watch?v=DoubleISmartTrailer"
     },
     {
         "id": "tl_100",
-        "title": "RRR: Reborn",
-        "slug": "rrr-reborn-2030",
-        "year": 2030,
+        "title": "Pushpa 2: The Rule",
+        "slug": "pushpa-2-the-rule-2024",
+        "year": 2024,
         "genre": [
-            "Historical",
-            "Action"
+            "Action",
+            "Drama"
         ],
-        "rating": 9.1,
-        "description": "A new generation of revolutionaries rise.",
-        "poster": "https://image.tmdb.org/t/p/w500/8X9Z4N2S5D7P3M6F1YQH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3X5Z8N2S9P4D7M6F1YQH0.jpg",
+        "rating": 8.5,
+        "description": "The rise of Pushpa continues as he faces greater enemies.",
+        "poster": "https://image.tmdb.org/t/p/w500/0E100Pushpa2Poster.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/0E100Pushpa2Backdrop.jpg",
         "language": "Telugu",
         "quality": "4K",
-        "trailer": "https://www.youtube.com/watch?v=5X9Z7N2S3QH"
+        "trailer": "https://www.youtube.com/watch?v=Pushpa2Trailer"
     }
 ]

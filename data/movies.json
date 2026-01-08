@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": "tl_001",
+        "title": "Baahubali: The Beginning",
+        "slug": "baahubali-the-beginning-2015",
+        "year": 2015,
+        "genre": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "rating": 8,
+        "description": "A young man discovers his royal heritage and his destiny to reclaim a fallen kingdom.",
+        "poster": "https://image.tmdb.org/t/p/w500/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg",
+        "language": "Telugu",
+        "quality": "1080p",
+        "trailer": "https://www.youtube.com/watch?v=sOEg_YZQsTI"
+    }
+]

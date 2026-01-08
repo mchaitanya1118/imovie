@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ye Maaya Chesave - StreamVault</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="description" content="A filmmaker falls in love with a traditional woman.">
+    <style>
+        .hero-backdrop {
+            background-image: linear-gradient(to top, #0f172a 10%, transparent 90%),
+            url('https://image.tmdb.org/t/p/original/4Z6P5X1N8S9M7D3F2YQH0.jpg');
+        }
+    </style>
+</head>
+
+<body>
+    <div class="background-glow"></div>
+
+    <header class="glass-header">
+        <nav>
+            <a href="../index.html" class="logo">Stream<span>Vault</span></a>
+            <a href="../index.html" class="back-link">← Back to Home</a>
+        </nav>
+    </header>
+
+    <main class="movie-detail">
+        <div class="hero-backdrop"></div>
+
+        <div class="content-wrapper">
+            <div class="poster-large">
+                <img src="https://image.tmdb.org/t/p/w500/7S3Z8P2D4X9F5N6M1YQH0.jpg" alt="Ye Maaya Chesave">
+            </div>
+            <div class="info-panel">
+                <div class="tags">
+                    <span class="quality-badge">720p</span>
+                    <span class="rating-badge">★ 7.9</span>
+                    <span class="lang-badge">Telugu</span>
+                </div>
+                <h1>Ye Maaya Chesave <span class="year">(2010)</span></h1>
+                <p class="genres">Romance, Drama</p>
+                <p class="description">A filmmaker falls in love with a traditional woman.</p>
+
+                <div class="actions">
+                    <a href="https://www.youtube.com/embed/8X4N9S2Z7QH" target="_blank" class="glass-button">▶ Watch Trailer</a>
+                    <button class="btn-secondary">⬇ Download</button>
+                </div>
+            </div>
+        </div>
+
+        <section id="playerSection" class="player-section" style="margin-top: 5rem; position: relative;"
+            data-trailer="https://www.youtube.com/embed/8X4N9S2Z7QH">
+            <div id="adContainer" class="ad-container">
+                <div class="ad-content">
+                    <h2>StreamVault Originals</h2>
+                    <p>Experience the magic of cinema. Subscribe now for ad-free details.</p>
+                </div>
+                <div class="ad-timer-wrapper">
+                    <span id="skipTimer">Skip in 5</span>
+                    <button id="skipAdBtn" class="skip-btn">Skip Ad ⏭</button>
+                </div>
+            </div>
+
+            <div id="moviePlayer" class="movie-player" style="display: none; width: 100%; height: 100%;">
+                <iframe id="videoFrame" src="" title="Movie Player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+        </section>
+    </main>
+
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

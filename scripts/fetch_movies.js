@@ -5,6 +5,7 @@ const DATA_FILE = path.join(__dirname, '../data/movies.json');
 
 // Mock data source - normally this would come from an API
 const MOCK_NEW_MOVIES = [
+
     {
         "id": "tl_001",
         "title": "Baahubali: The Beginning",
@@ -13,8 +14,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Drama", "Fantasy"],
         "rating": 8.0,
         "description": "In ancient India, an adventurous young man learns of his royal heritage and his mission to reclaim the kingdom from a tyrannical ruler.",
-        "poster": "https://example.com/posters/baahubali1.jpg",
-        "backdrop": "https://example.com/backdrops/baahubali1-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=sOEg_YZQsTI"
@@ -27,8 +28,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Drama", "Fantasy"],
         "rating": 8.2,
         "description": "After learning his true identity, Mahendra Baahubali sets out to avenge his father and free the kingdom from Bhallaladeva.",
-        "poster": "https://example.com/posters/baahubali2.jpg",
-        "backdrop": "https://example.com/backdrops/baahubali2-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/lNv5xJ5JbJx7g8d3pKpQxkqKpDp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5JZg0KMP2q3k8rS3B7K9lYbKp8A.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=G62HrubdD6o"
@@ -41,8 +42,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Drama", "Historical"],
         "rating": 8.1,
         "description": "A fictional story about two legendary revolutionaries and their journey away from home before they began fighting for their country.",
-        "poster": "https://example.com/posters/rrr.jpg",
-        "backdrop": "https://example.com/backdrops/rrr-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/l0h0Q3q5Pz7V3E5zP7m8cJt9E4U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fZ9kB0P9uP6M9R6T4Z1cV6jC4yA.jpg",
         "language": "Telugu",
         "quality": "4K",
         "trailer": "https://www.youtube.com/watch?v=NgBoMJy386M"
@@ -55,8 +56,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Drama", "Thriller"],
         "rating": 7.6,
         "description": "A laborer rises through the ranks of a red sandalwood smuggling syndicate, facing betrayal and enemies at every turn.",
-        "poster": "https://example.com/posters/pushpa.jpg",
-        "backdrop": "https://example.com/backdrops/pushpa-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/rQ9X3r9E0P1z7hX1H2nGzX3H0mE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5C8gM2S6xqJ2Ck0Z7g7S8bFZ8Tg.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY"
@@ -69,8 +70,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Drama", "Family", "Romance"],
         "rating": 7.3,
         "description": "A man raised in a middle-class family learns of his true parentage and chooses to protect both families that shaped his life.",
-        "poster": "https://example.com/posters/ala-vaikunta-puramulo.jpg",
-        "backdrop": "https://example.com/backdrops/ala-vaikunta-puramulo-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/1uQJ5bE3T2qK7T6z0P3z0M0B1yN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2pN7s0Qm5M3p5F8G3m4zX5T5Q0G.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=SkENAjfVoNI"
@@ -83,8 +84,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Fantasy", "Romance", "Thriller"],
         "rating": 7.8,
         "description": "A man reincarnates as a housefly to seek revenge on the man who murdered him and protect the woman he loves.",
-        "poster": "https://example.com/posters/eega.jpg",
-        "backdrop": "https://example.com/backdrops/eega-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5U3s2xk3sE2VZ1F2k7m0D4D9x6x.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m1D1P3sZ3G4z2N4B2S1R7H9k0D.jpg",
         "language": "Telugu",
         "quality": "720p",
         "trailer": "https://www.youtube.com/watch?v=4xBjp6h0Kkk"
@@ -97,8 +98,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Romance", "Fantasy"],
         "rating": 7.7,
         "description": "A warrior is reincarnated after 400 years and seeks to reunite with his love while confronting his ancient enemy.",
-        "poster": "https://example.com/posters/magadheera.jpg",
-        "backdrop": "https://example.com/backdrops/magadheera-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/6z1mE1G8G7P7p0K2k5X1E3P4K8P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qk5ZC3R9b0P1X2k2k9k5F2B8D8E.jpg",
         "language": "Telugu",
         "quality": "720p",
         "trailer": "https://www.youtube.com/watch?v=3O1n3A1sT5Y"
@@ -111,8 +112,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Drama", "Sports"],
         "rating": 8.5,
         "description": "A failed cricketer decides to revive his career in his late 30s to prove himself to his son and fulfill his dream.",
-        "poster": "https://example.com/posters/jersey.jpg",
-        "backdrop": "https://example.com/backdrops/jersey-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5q1E8Zp3Q5Z7B3s0T1B7K0P9mN8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8X7S3D2pM1kP3x9Q2z9K5M4D8Y4.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=5lN4P5x0n0Q"
@@ -125,8 +126,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Romance", "Drama"],
         "rating": 8.0,
         "description": "A brilliant but troubled surgeon spirals into self-destruction after his girlfriend is forced to marry another man.",
-        "poster": "https://example.com/posters/arjun-reddy.jpg",
-        "backdrop": "https://example.com/backdrops/arjun-reddy-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/6F2C1Q2N5M4E2B3P4X7G9D1S3Z3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3D9X7K3ZP4m2P8B4Q0X5S2G9R8Z.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=Ao9s0Yk1z4I"
@@ -139,8 +140,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Drama"],
         "rating": 8.4,
         "description": "In a rural village, a partially deaf man fights against a corrupt local politician to bring justice to his people.",
-        "poster": "https://example.com/posters/rangasthalam.jpg",
-        "backdrop": "https://example.com/backdrops/rangasthalam-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/7A4Y9N3T5D6P1M2G4Z9F5B3K6D8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8Z9T5P2F4X3N6K1M7G5B9Y0A2D.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=5n9sJ3Rj4e0"
@@ -153,8 +154,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Sports", "Drama"],
         "rating": 7.7,
         "description": "A college rugby team unites to save their institution from a powerful rival determined to take over their land.",
-        "poster": "https://example.com/posters/sye.jpg",
-        "backdrop": "https://example.com/backdrops/sye-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/3G4M1N5S8Z9T7K0D2P6B4X1A5E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1K7M2X9T3B4N5Z6P8A0D4F5S6E.jpg",
         "language": "Telugu",
         "quality": "720p",
         "trailer": "https://www.youtube.com/watch?v=O5m4VJtY8CE"
@@ -167,8 +168,8 @@ const MOCK_NEW_MOVIES = [
         "genre": ["Action", "Drama"],
         "rating": 6.9,
         "description": "A man takes on the identity of his lookalike to expose a corrupt businessman and protect farmers from exploitation.",
-        "poster": "https://example.com/posters/khaidi-no-150.jpg",
-        "backdrop": "https://example.com/backdrops/khaidi-no-150-bg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/6P9B3D1N7X4T5Z2K0S8A5F4M3G9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2N8M4Z3T5B1D6P0A7S9XK4G5F.jpg",
         "language": "Telugu",
         "quality": "1080p",
         "trailer": "https://www.youtube.com/watch?v=0k2TgDq4p1Q"

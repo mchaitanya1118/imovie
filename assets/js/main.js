@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let VIDEO_URL = "";
     if (playerSection) {
-        let rawUrl = playerSection.getAttribute('data-trailer') || "";
+        let rawUrl = playerSection.getAttribute('data-video-source') || "";
         VIDEO_URL = convertToEmbedUrl(rawUrl);
 
         // Ensure autoplay parameters

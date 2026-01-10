@@ -141,14 +141,14 @@ async function build() {
     if (removedFiles > 0) console.log(`Cleaned up ${removedFiles} stale movie pages.`);
 
     movies.forEach(movie => {
-        // Default trailer if missing (Dune Part Two trailer as safe fallback)
-        let trailerUrl = movie.trailer || "https://www.youtube.com/embed/Way9Dexny3w";
+        // Default video source if missing
+        let videoSource = movie.video_source || "https://www.youtube.com/embed/Way9Dexny3w";
 
         // Convert YouTube Watch URL to Embed URL if needed
-        if (trailerUrl.includes('youtube.com/watch?v=')) {
-            trailerUrl = trailerUrl.replace('youtube.com/watch?v=', 'youtube.com/embed/');
-        } else if (trailerUrl.includes('youtu.be/')) {
-            trailerUrl = trailerUrl.replace('youtu.be/', 'youtube.com/embed/');
+        if (videoSource.includes('youtube.com/watch?v=')) {
+            videoSource = videoSource.replace('youtube.com/watch?v=', 'youtube.com/embed/');
+        } else if (videoSource.includes('youtu.be/')) {
+            videoSource = videoSource.replace('youtu.be/', 'youtube.com/embed/');
         }
 
         let pageHtml = movieTemplate
@@ -160,7 +160,7 @@ async function build() {
             .replace(/{{backdrop}}/g, movie.backdrop)
             .replace(/{{quality}}/g, movie.quality)
             .replace(/{{language}}/g, movie.language)
-            .replace(/{{trailer}}/g, trailerUrl)
+            .replace(/{{video_source}}/g, videoSource)
             .replace(/{{genre}}/g, movie.genre.join(', '));
 
         fs.writeFileSync(path.join(movieDir, `${movie.slug}.html`), pageHtml);

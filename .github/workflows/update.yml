@@ -34,7 +34,7 @@ jobs:
       id: auto-commit
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Auto-commit: Movie database updated"
+        commit_message: "Auto-commit: Movie database updated [skip ci]"
         branch: master
         file_pattern: 'data/movies.json index.html movies/*.html'
 

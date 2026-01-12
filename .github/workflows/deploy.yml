@@ -27,6 +27,9 @@ jobs:
       - name: Fetch Latest Movies
         run: npm run fetch
 
+      - name: Build Site
+        run: npm run build
+
       - name: Commit and Push Data Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
